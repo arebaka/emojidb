@@ -1,6 +1,6 @@
 {
   "name": "emok",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "an emoji database and a simple toolkit for working with it",
   "main": "index.js",
   "scripts": {},
@@ -10,7 +10,8 @@
   },
   "keywords": [
     "emoji",
-    "unicode"
+    "unicode",
+    "toolkit"
   ],
   "author": {
     "name": "arelive",

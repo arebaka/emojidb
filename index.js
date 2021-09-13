@@ -1,8 +1,5 @@
 const EmojiDb = require("emoji-db");
 
-const list       = require("./list.json");
-const components = require("./components.json");
-
 const db = new EmojiDb({ useDefaultDb: true });
 
 let bySlug  = {};
@@ -14,190 +11,190 @@ let byAliases    = {};
 let byShortcodes = {};
 let byTags       = {};
 
-function init()
+class Emok
 {
-    const dbKeys = Object.keys(db.dbData);
-    let   code;
-    let   lower;
+    constructor(list, components)
+    {
+        this.ZWJ        = '\u200d';
+        this.list       = list;
+        this.components = components;
+        this.regexp     = /(?:[\u2700-\u27bf]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?(?:\u200d(?:[^\ud800-\udfff]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?)*/g;
 
-    for (let i in list) {
-        for (let j in list[i]) {
-            for (let emoji of list[i][j]) {
-                code = dbKeys.find(k => db.dbData[k].emoji && db.dbData[k].emoji == emoji.char)
+        this.bySlug = l => bySlug["" + l] || null;
+        this.byChar = l => byChar["" + l] || null;
+        this.byCode = l => byCode["" + l] || null;
 
-                if (code) {
-                    emoji.code  = db.dbData[code].code;
-                    emoji.title = db.dbData[code].title;
+        this.search = text => db.searchFromText({ input: text });
 
-                    for (let key of ["aliases", "shortcodes", "tags", "codepoints"]) {
-                        emoji[key] = db.dbData[code][key] || [];
-                    }
+        this.byTitle = title => byTitle[("" + title).toLowerCase()] || null;
 
-                    bySlug[emoji.slug] = emoji;
-                    byChar[emoji.char] = emoji;
-                    byCode[emoji.code] = emoji;
+        this.ordered = [];
 
-                    byTitle[emoji.title.toLowerCase()] = emoji;
+        const dbKeys = Object.keys(db.dbData);
+        let   code;
+        let   lower;
 
-                    for (let i = 0; i < emoji.shortcodes.length; i++) {
-                        emoji.shortcodes[i] = emoji.shortcodes[i].slice(1, -1);
-                    }
+        for (let i in this.list) {
+            for (let j in this.list[i]) {
+                for (let emoji of this.list[i][j]) {
+                    this.ordered.push(emoji.char);
 
-                    for (let prop of [
-                        ["aliases",    byAliases],
-                        ["shortcodes", byShortcodes],
-                        ["tags",       byTags]
-                    ]) {
-                        for (let value of emoji[prop[0]]) {
-                            lower = value.toLowerCase();
+                    code = dbKeys.find(k => db.dbData[k].emoji && db.dbData[k].emoji == emoji.char)
 
-                            if (!prop[1][lower]) {
-                                prop[1][lower] = [];
+                    if (code) {
+                        emoji.code  = db.dbData[code].code;
+                        emoji.title = db.dbData[code].title;
+
+                        for (let key of ["aliases", "shortcodes", "tags", "codepoints"]) {
+                            emoji[key] = db.dbData[code][key] || [];
+                        }
+
+                        bySlug[emoji.slug] = emoji;
+                        byChar[emoji.char] = emoji;
+                        byCode[emoji.code] = emoji;
+
+                        byTitle[emoji.title.toLowerCase()] = emoji;
+
+                        for (let i = 0; i < emoji.shortcodes.length; i++) {
+                            emoji.shortcodes[i] = emoji.shortcodes[i].slice(1, -1);
+                        }
+
+                        for (let prop of [
+                            ["aliases",    byAliases],
+                            ["shortcodes", byShortcodes],
+                            ["tags",       byTags]
+                        ]) {
+                            for (let value of emoji[prop[0]]) {
+                                lower = value.toLowerCase();
+
+                                if (!prop[1][lower]) {
+                                    prop[1][lower] = [];
+                                }
+
+                                prop[1][lower].push(emoji);
                             }
-
-                            prop[1][lower].push(emoji);
                         }
                     }
                 }
             }
         }
     }
-}
 
-function get(litelal)
-{
-    if (!litelal || typeof litelal != "string")
-        return null;
+    get(litelal)
+    {
+        if (!litelal || typeof litelal != "string")
+            return null;
 
-    return bySlug[litelal]
-        || byChar[litelal]
-        || byTitle[litelal.toLowerCase()]
-        || null;
-}
-
-function flagOf(code)
-{
-    if (typeof code != "string" || !/^[a-zA-Z]{2}$/.test(code))
-        return null;
-
-    code = code.toLowerCase();
-
-    return components.regional_indicators[
-            "regional_indicator_symbol_letter_" + code[0]
-        ] + components.regional_indicators[
-            "regional_indicator_symbol_letter_" + code[1]
-        ];
-}
-
-function getByAliases(aliases)
-{
-    if (typeof aliases != "object" || !Array.isArray(aliases)) {
-        aliases = [aliases];
+        return bySlug[litelal]
+            || byChar[litelal]
+            || byTitle[litelal.toLowerCase()]
+            || null;
     }
 
-    let res = [];
-    let key;
+    flagOf(code)
+    {
+        if (typeof code != "string" || !/^[a-zA-Z]{2}$/.test(code))
+            return null;
 
-    for (let alias of aliases) {
-        key = ("" + alias).toLowerCase();
+        code = code.toLowerCase();
 
-        if (byAliases[key]) {
-            res = res.concat(byAliases[key]);
+        return this.components.regional_indicators[
+                "regional_indicator_symbol_letter_" + code[0]
+            ] + this.components.regional_indicators[
+                "regional_indicator_symbol_letter_" + code[1]
+            ];
+    }
+
+    getByAliases(aliases)
+    {
+        if (typeof aliases != "object" || !Array.isArray(aliases)) {
+            aliases = [aliases];
         }
-    }
 
-    return res;
-}
+        let res = [];
+        let key;
 
-function getByShortcodes(shortcodes)
-{
-    if (typeof shortcodes != "object" || !Array.isArray(shortcodes)) {
-        shortcodes = [shortcodes];
-    }
+        for (let alias of aliases) {
+            key = ("" + alias).toLowerCase();
 
-    let res = [];
-    let key;
-
-    for (let sc of shortcodes) {
-        key = ("" + sc).toLowerCase();
-
-        if (byShortcodes[sc]) {
-            res = res.concat(byShortcodes[sc]);
+            if (byAliases[key]) {
+                res = res.concat(byAliases[key]);
+            }
         }
+
+        return res;
     }
 
-    return res;
-}
-
-function getByTags(tags)
-{
-    if (typeof tags != "object" || !Array.isArray(tags)) {
-        tags = [tags];
-    }
-
-    let res = [];
-    let key;
-
-    for (let tag of tags) {
-        key = ("" + tag).toLowerCase();
-
-        if (byTags[tag]) {
-            res = res.concat(byTags[tag]);
+    getByShortcodes(shortcodes)
+    {
+        if (typeof shortcodes != "object" || !Array.isArray(shortcodes)) {
+            shortcodes = [shortcodes];
         }
+
+        let res = [];
+        let key;
+
+        for (let sc of shortcodes) {
+            key = ("" + sc).toLowerCase();
+
+            if (byShortcodes[sc]) {
+                res = res.concat(byShortcodes[sc]);
+            }
+        }
+
+        return res;
     }
 
-    return res;
-}
+    getByTags(tags)
+    {
+        if (typeof tags != "object" || !Array.isArray(tags)) {
+            tags = [tags];
+        }
 
-function random()
-{
-    const slugs = Object.keys(bySlug);
+        let res = [];
+        let key;
 
-    return bySlug[slugs[slugs.length * Math.random() << 0]];
-}
+        for (let tag of tags) {
+            key = ("" + tag).toLowerCase();
 
-function emojify(text)
-{
-    if (!text || typeof text != "string")
+            if (byTags[tag]) {
+                res = res.concat(byTags[tag]);
+            }
+        }
+
+        return res;
+    }
+
+    random()
+    {
+        const slugs = Object.keys(bySlug);
+
+        return bySlug[slugs[slugs.length * Math.random() << 0]];
+    }
+
+    emojify(text)
+    {
+        if (!text || typeof text != "string")
+            return text;
+
+        let shortcodes = text.match(/\:[a-zA-Z_]+\:/g);
+        let shortcode;
+
+        if (!shortcodes)
+            return text;
+
+        for (let sc of shortcodes) {
+            shortcode = sc.slice(1, -1).toLowerCase();
+
+            if (byShortcodes[shortcode] && byShortcodes[shortcode].length) {
+                text = text.replace(sc, byShortcodes[shortcode][0].char);
+            }
+        }
+
         return text;
-
-    let shortcodes = text.match(/\:[a-zA-Z_]+\:/g);
-    let shortcode;
-
-    if (!shortcodes)
-        return text;
-
-    for (let sc of shortcodes) {
-        shortcode = sc.slice(1, -1).toLowerCase();
-
-        if (byShortcodes[shortcode] && byShortcodes[shortcode].length) {
-            text = text.replace(sc, byShortcodes[shortcode][0].char);
-        }
     }
-
-    return text;
 }
 
-init();
-
-module.exports = {
-    list:       list,
-    components: components,
-
-    get:     get,
-    flagOf:  flagOf,
-    random:  random,
-    emojify: emojify,
-
-    getByAliases:    getByAliases,
-    getByShortcodes: getByShortcodes,
-    getByTags:       getByTags,
-
-    bySlug: l => bySlug["" + l] || null,
-    byChar: l => byChar["" + l] || null,
-    byCode: l => byCode["" + l] || null,
-
-    search: text => db.searchFromText({ input: text }),
-
-    byTitle: l => byTitle[("" + l).toLowerCase()] || null
-};
+module.exports = new Emok(
+    require("./list.json"), require("./components.json")
+);
