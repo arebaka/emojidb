@@ -1,0 +1,33 @@
+{
+  "name": "emok",
+  "version": "0.2.1",
+  "description": "an emoji database and a simple toolkit for working with it",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arebaka/emok.git"
+  },
+  "keywords": [
+    "emoji",
+    "unicode"
+  ],
+  "author": {
+    "name": "arelive",
+    "email": "me@are.moe",
+    "url": "https://are.moe"
+  },
+  "files": [
+    "index.js",
+    "list.json",
+    "components.json"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arebaka/emok/issues"
+  },
+  "homepage": "https://github.com/arebaka/emok#readme",
+  "dependencies": {
+    "emoji-db": "^1.11.1"
+  }
+}
