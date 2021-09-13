@@ -1,6 +1,6 @@
 {
   "name": "emok",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "an emoji database and a simple toolkit for working with it",
   "main": "index.js",
   "scripts": {},

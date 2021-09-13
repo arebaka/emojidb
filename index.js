@@ -156,15 +156,38 @@ function random()
     return bySlug[slugs[slugs.length * Math.random() << 0]];
 }
 
+function emojify(text)
+{
+    if (!text || typeof text != "string")
+        return text;
+
+    let shortcodes = text.match(/\:[a-zA-Z_]+\:/g);
+    let shortcode;
+
+    if (!shortcodes)
+        return text;
+
+    for (let sc of shortcodes) {
+        shortcode = sc.slice(1, -1).toLowerCase();
+
+        if (byShortcodes[shortcode] && byShortcodes[shortcode].length) {
+            text = text.replace(sc, byShortcodes[shortcode][0].char);
+        }
+    }
+
+    return text;
+}
+
 init();
 
 module.exports = {
     list:       list,
     components: components,
 
-    get:    get,
-    flagOf: flagOf,
-    random: random,
+    get:     get,
+    flagOf:  flagOf,
+    random:  random,
+    emojify: emojify,
 
     getByAliases:    getByAliases,
     getByShortcodes: getByShortcodes,
@@ -174,7 +197,7 @@ module.exports = {
     byChar: l => byChar["" + l] || null,
     byCode: l => byCode["" + l] || null,
 
-    find: text => db.searchFromText({ input: text }),
+    search: text => db.searchFromText({ input: text }),
 
     byTitle: l => byTitle[("" + l).toLowerCase()] || null
 };
