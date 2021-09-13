@@ -2819,6 +2819,43 @@
 				"emoji_version": "4.0",
 				"char": "👩‍👧‍👧"
 			}
+		],
+		"symbols": [
+			{
+				"skin_tone_support": false,
+				"slug": "speaking_head",
+				"unicode_version": "0.7",
+				"emoji_version": "0.7",
+				"char": "🗣️"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "bust_in_silhouette",
+				"unicode_version": "0.6",
+				"emoji_version": "0.6",
+				"char": "👤"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "busts_in_silhouette",
+				"unicode_version": "1.0",
+				"emoji_version": "1.0",
+				"char": "👥"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "people_hugging",
+				"unicode_version": "13.0",
+				"emoji_version": "13.0",
+				"char": "🫂"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "footprints",
+				"unicode_version": "0.6",
+				"emoji_version": "0.6",
+				"char": "👣"
+			}
 		]
 	},
 	"activity_and_sport": {
@@ -3516,43 +3553,6 @@
 				"char": "🛌"
 			}
 		],
-		"symbols": [
-			{
-				"skin_tone_support": false,
-				"slug": "speaking_head",
-				"unicode_version": "0.7",
-				"emoji_version": "0.7",
-				"char": "🗣️"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "bust_in_silhouette",
-				"unicode_version": "0.6",
-				"emoji_version": "0.6",
-				"char": "👤"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "busts_in_silhouette",
-				"unicode_version": "1.0",
-				"emoji_version": "1.0",
-				"char": "👥"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "people_hugging",
-				"unicode_version": "13.0",
-				"emoji_version": "13.0",
-				"char": "🫂"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "footprints",
-				"unicode_version": "0.6",
-				"emoji_version": "0.6",
-				"char": "👣"
-			}
-		],
 		"games": [
 			{
 				"skin_tone_support": false,
@@ -3907,7 +3907,7 @@
 				"char": "🧿"
 			}
 		],
-		"art_and_crafts": [
+		"arts_and_crafts": [
 			{
 				"skin_tone_support": false,
 				"slug": "performing_arts",
@@ -4333,6 +4333,73 @@
 				"unicode_version": "0.6",
 				"emoji_version": "0.6",
 				"char": "🎁"
+			}
+		],
+		"events": [
+			{
+				"skin_tone_support": false,
+				"slug": "reminder_ribbon",
+				"unicode_version": "0.7",
+				"emoji_version": "0.7",
+				"char": "🎗️"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "admission_tickets",
+				"unicode_version": "0.7",
+				"emoji_version": "0.7",
+				"char": "🎟️"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "ticket",
+				"unicode_version": "0.6",
+				"emoji_version": "0.6",
+				"char": "🎫"
+			}
+		],
+		"awards": [
+			{
+				"skin_tone_support": false,
+				"slug": "military_medal",
+				"unicode_version": "0.7",
+				"emoji_version": "0.7",
+				"char": "🎖️"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "trophy",
+				"unicode_version": "0.6",
+				"emoji_version": "0.6",
+				"char": "🏆"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "sports_medal",
+				"unicode_version": "1.0",
+				"emoji_version": "1.0",
+				"char": "🏅"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "1st_place_medal",
+				"unicode_version": "3.0",
+				"emoji_version": "3.0",
+				"char": "🥇"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "2nd_place_medal",
+				"unicode_version": "3.0",
+				"emoji_version": "3.0",
+				"char": "🥈"
+			},
+			{
+				"skin_tone_support": false,
+				"slug": "3rd_place_medal",
+				"unicode_version": "3.0",
+				"emoji_version": "3.0",
+				"char": "🥉"
 			}
 		]
 	},
@@ -7241,7 +7308,7 @@
 				"char": "🛸"
 			}
 		],
-		"hotels": [
+		"hotel": [
 			{
 				"skin_tone_support": false,
 				"slug": "bellhop_bell",
@@ -7807,73 +7874,6 @@
 				"unicode_version": "0.6",
 				"emoji_version": "0.6",
 				"char": "🌊"
-			}
-		],
-		"events": [
-			{
-				"skin_tone_support": false,
-				"slug": "reminder_ribbon",
-				"unicode_version": "0.7",
-				"emoji_version": "0.7",
-				"char": "🎗️"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "admission_tickets",
-				"unicode_version": "0.7",
-				"emoji_version": "0.7",
-				"char": "🎟️"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "ticket",
-				"unicode_version": "0.6",
-				"emoji_version": "0.6",
-				"char": "🎫"
-			}
-		],
-		"awards": [
-			{
-				"skin_tone_support": false,
-				"slug": "military_medal",
-				"unicode_version": "0.7",
-				"emoji_version": "0.7",
-				"char": "🎖️"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "trophy",
-				"unicode_version": "0.6",
-				"emoji_version": "0.6",
-				"char": "🏆"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "sports_medal",
-				"unicode_version": "1.0",
-				"emoji_version": "1.0",
-				"char": "🏅"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "1st_place_medal",
-				"unicode_version": "3.0",
-				"emoji_version": "3.0",
-				"char": "🥇"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "2nd_place_medal",
-				"unicode_version": "3.0",
-				"emoji_version": "3.0",
-				"char": "🥈"
-			},
-			{
-				"skin_tone_support": false,
-				"slug": "3rd_place_medal",
-				"unicode_version": "3.0",
-				"emoji_version": "3.0",
-				"char": "🥉"
 			}
 		]
 	},
@@ -10481,7 +10481,7 @@
 				"char": "💲"
 			}
 		],
-		"keycap": [
+		"keycaps": [
 			{
 				"skin_tone_support": false,
 				"slug": "keycap_",
@@ -10574,7 +10574,7 @@
 				"char": "🔟"
 			}
 		],
-		"alphanum": [
+		"alphanums": [
 			{
 				"skin_tone_support": false,
 				"slug": "input_latin_uppercase",
@@ -10849,7 +10849,7 @@
 				"char": "🈵"
 			}
 		],
-		"geometric": [
+		"geometry": [
 			{
 				"skin_tone_support": false,
 				"slug": "red_circle",
