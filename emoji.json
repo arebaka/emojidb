@@ -4824,9 +4824,7 @@
 				"unicode_version": "0.6",
 				"emoji_version": "0.6",
 				"char": "🐸"
-			}
-		],
-		"reptiles": [
+			},
 			{
 				"skin_tone_support": false,
 				"slug": "crocodile",
@@ -4854,7 +4852,9 @@
 				"unicode_version": "0.6",
 				"emoji_version": "0.6",
 				"char": "🐍"
-			},
+			}
+		],
+		"reptiles": [
 			{
 				"skin_tone_support": false,
 				"slug": "dragon_face",
