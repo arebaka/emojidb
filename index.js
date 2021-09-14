@@ -24,9 +24,9 @@ class Emok
         this.byChar = l => byChar["" + l] || null;
         this.byCode = l => byCode["" + l] || null;
 
-        this.search = text => db.searchFromText({ input: text });
-
         this.byTitle = title => byTitle[("" + title).toLowerCase()] || null;
+
+        this.search = text => db.searchFromText({ input: text });
 
         this.ordered = [];
 
@@ -167,9 +167,9 @@ class Emok
 
     random()
     {
-        const slugs = Object.keys(bySlug);
-
-        return bySlug[slugs[slugs.length * Math.random() << 0]];
+        return byChar[this.ordered[
+            this.ordered.length * Math.random() << 0
+        ]];
     }
 
     emojify(text)
@@ -178,16 +178,16 @@ class Emok
             return text;
 
         let shortcodes = text.match(/\:[a-zA-Z_]+\:/g);
-        let shortcode;
+        let litelal;
 
         if (!shortcodes)
             return text;
 
-        for (let sc of shortcodes) {
-            shortcode = sc.slice(1, -1).toLowerCase();
+        for (let shortcode of shortcodes) {
+            litelal = sc.slice(1, -1).toLowerCase();
 
-            if (byShortcodes[shortcode] && byShortcodes[shortcode].length) {
-                text = text.replace(sc, byShortcodes[shortcode][0].char);
+            if (byShortcodes[litelal] && byShortcodes[litelal].length) {
+                text = text.replace(shortcode, byShortcodes[litelal][0].char);
             }
         }
 
