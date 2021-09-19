@@ -1,6 +1,6 @@
 {
   "name": "emok",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "an emoji database and a simple toolkit for working with it",
   "main": "index.js",
   "scripts": {},
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/arebaka/emok#readme",
   "dependencies": {
-    "emoji-db": "^1.11.1"
+    "emoji-db": "^1.14.0"
   }
 }

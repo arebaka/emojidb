@@ -2,14 +2,14 @@ const EmojiDb = require("emoji-db");
 
 const db = new EmojiDb({ useDefaultDb: true });
 
-let bySlug  = {};
-let byChar  = {};
-let byCode  = {};
-let byTitle = {};
+let bySlug      = {};
+let byChar      = {};
+let byCode      = {};
+let byTitle     = {};
+let byShortcode = {};
 
-let byAliases    = {};
-let byShortcodes = {};
-let byTags       = {};
+let byAliases = {};
+let byTags    = {};
 
 class Emok
 {
@@ -20,11 +20,11 @@ class Emok
         this.components = components;
         this.regexp     = /(?:[\u2700-\u27bf]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?(?:\u200d(?:[^\ud800-\udfff]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?)*/g;
 
-        this.bySlug = l => bySlug["" + l] || null;
-        this.byChar = l => byChar["" + l] || null;
-        this.byCode = l => byCode["" + l] || null;
-
-        this.byTitle = title => byTitle[("" + title).toLowerCase()] || null;
+        this.bySlug      = l => bySlug["" + l] || null;
+        this.byChar      = l => byChar["" + l] || null;
+        this.byCode      = l => byCode["" + l] || null;
+        this.byShortcode = l => byShortcode["" + l] || null;
+        this.byTitle     = t => byTitle[("" + t).toLowerCase()] || null;
 
         this.search = text => db.searchFromText({ input: text });
 
@@ -42,10 +42,11 @@ class Emok
                     code = dbKeys.find(k => db.dbData[k].emoji && db.dbData[k].emoji == emoji.char)
 
                     if (code) {
-                        emoji.code  = db.dbData[code].code;
-                        emoji.title = db.dbData[code].title;
+                        emoji.code       = db.dbData[code].code;
+                        emoji.title      = db.dbData[code].title;
+                        emoji.shortcodes = db.dbData[code].shortcodes.github || [];
 
-                        for (let key of ["aliases", "shortcodes", "tags", "codepoints"]) {
+                        for (let key of ["aliases", "tags", "codepoints"]) {
                             emoji[key] = db.dbData[code][key] || [];
                         }
 
@@ -55,13 +56,12 @@ class Emok
 
                         byTitle[emoji.title.toLowerCase()] = emoji;
 
-                        for (let i = 0; i < emoji.shortcodes.length; i++) {
-                            emoji.shortcodes[i] = emoji.shortcodes[i].slice(1, -1);
+                        for (let sc of emoji.shortcodes) {
+                            byShortcode[sc] = emoji;
                         }
 
                         for (let prop of [
                             ["aliases",    byAliases],
-                            ["shortcodes", byShortcodes],
                             ["tags",       byTags]
                         ]) {
                             for (let value of emoji[prop[0]]) {
@@ -87,6 +87,7 @@ class Emok
 
         return bySlug[litelal]
             || byChar[litelal]
+            || byShortcode[litelal]
             || byTitle[litelal.toLowerCase()]
             || null;
     }
@@ -119,26 +120,6 @@ class Emok
 
             if (byAliases[key]) {
                 res = res.concat(byAliases[key]);
-            }
-        }
-
-        return res;
-    }
-
-    getByShortcodes(shortcodes)
-    {
-        if (typeof shortcodes != "object" || !Array.isArray(shortcodes)) {
-            shortcodes = [shortcodes];
-        }
-
-        let res = [];
-        let key;
-
-        for (let sc of shortcodes) {
-            key = ("" + sc).toLowerCase();
-
-            if (byShortcodes[sc]) {
-                res = res.concat(byShortcodes[sc]);
             }
         }
 
@@ -178,16 +159,12 @@ class Emok
             return text;
 
         let shortcodes = text.match(/\:[a-zA-Z_]+\:/g);
-        let litelal;
-
         if (!shortcodes)
             return text;
 
         for (let shortcode of shortcodes) {
-            litelal = sc.slice(1, -1).toLowerCase();
-
-            if (byShortcodes[litelal] && byShortcodes[litelal].length) {
-                text = text.replace(shortcode, byShortcodes[litelal][0].char);
+            if (byShortcode[shortcode]) {
+                text = text.replace(shortcode, byShortcode[shortcode].char);
             }
         }
 
