@@ -13,22 +13,25 @@ let byTags    = {};
 
 class Emok
 {
-    constructor(list, components)
+    constructor(list, components, locales, locale)
     {
         this.ZWJ        = '\u200d';
         this.list       = list;
         this.components = components;
+        this.locales    = locales;
         this.regexp     = /(?:[\u2700-\u27bf]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?(?:\u200d(?:[^\ud800-\udfff]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?)*/g;
 
-        this.bySlug      = l => bySlug["" + l] || null;
-        this.byChar      = l => byChar["" + l] || null;
-        this.byCode      = l => byCode["" + l] || null;
-        this.byShortcode = l => byShortcode["" + l] || null;
-        this.byTitle     = t => byTitle[("" + t).toLowerCase()] || null;
+        this.ordered = [];
+        this.setLocale(locale);
+
+        this.bySlug       = l => bySlug["" + l] || null;
+        this.byChar       = l => byChar["" + l] || null;
+        this.byCode       = l => byCode["" + l] || null;
+        this.byShortcode  = l => byShortcode["" + l] || null;
+        this.byTitle      = t => byTitle[("" + t).toLowerCase()] || null;
+        this.getByKeyword = k => this.locale.keywords[("" + k).toLowerCase()] || null;
 
         this.search = text => db.searchFromText({ input: text });
-
-        this.ordered = [];
 
         const dbKeys = Object.keys(db.dbData);
         let   code;
@@ -39,12 +42,14 @@ class Emok
                 for (let emoji of this.list[i][j]) {
                     this.ordered.push(emoji.char);
 
-                    code = dbKeys.find(k => db.dbData[k].emoji && db.dbData[k].emoji == emoji.char)
+                    code = dbKeys.find(k => db.dbData[k].emoji && db.dbData[k].emoji == emoji.char);
 
                     if (code) {
-                        emoji.code       = db.dbData[code].code;
-                        emoji.title      = db.dbData[code].title;
-                        emoji.shortcodes = db.dbData[code].shortcodes.github || [];
+                        emoji.category    = db.dbData[code].category;
+                        emoji.subcatecory = db.dbData[code].sub_category;
+                        emoji.code        = db.dbData[code].code;
+                        emoji.title       = db.dbData[code].title;
+                        emoji.shortcodes  = db.dbData[code].shortcodes.github || [];
 
                         for (let key of ["aliases", "tags", "codepoints"]) {
                             emoji[key] = db.dbData[code][key] || [];
@@ -170,8 +175,19 @@ class Emok
 
         return text;
     }
+
+    setLocale(code)
+    {
+        if (!code || typeof code != "string")
+            return;
+
+        this.locale = this.locales[code] || this.locale;
+    }
 }
 
 module.exports = new Emok(
-    require("./list.json"), require("./components.json")
+    require("./list.json"),
+    require("./components.json"),
+    require("./locales"),
+    "eng"
 );
