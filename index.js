@@ -2,8 +2,10 @@ const EmojiDb = require("emoji-db");
 
 const db = new EmojiDb({ useDefaultDb: true });
 
+
+
+
 let bySlug      = {};
-let byChar      = {};
 let byCode      = {};
 let byTitle     = {};
 let byShortcode = {};
@@ -11,120 +13,159 @@ let byShortcode = {};
 let byAliases = {};
 let byTags    = {};
 
+
+
+
 class Emok
 {
-    constructor(list, components, locales, locale)
+    constructor(list, tree, components, locales, locale="eng")
     {
-        this.ZWJ        = '\u200d';
+
+        this.ZWJ    = '\u200d';
+        this.regexp = /(?:[\u2700-\u27bf]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?(?:\u200d(?:[^\ud800-\udfff]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?)*/g;
+
         this.list       = list;
+        this.tree       = tree;
         this.components = components;
+        this.ordered    = Object.keys(list);
         this.locales    = locales;
-        this.regexp     = /(?:[\u2700-\u27bf]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?(?:\u200d(?:[^\ud800-\udfff]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff])[\ufe0e\ufe0f]?(?:[\u0300-\u036f\ufe20-\ufe23\u20d0-\u20f0]|\ud83c[\udffb-\udfff])?)*/g;
-
-        this.ordered = [];
-        this.setLocale(locale);
-
-        this.bySlug       = l => bySlug["" + l] || null;
-        this.byChar       = l => byChar["" + l] || null;
-        this.byCode       = l => byCode["" + l] || null;
-        this.byShortcode  = l => byShortcode["" + l] || null;
-        this.byTitle      = t => byTitle[("" + t).toLowerCase()] || null;
-        this.getByKeyword = k => this.locale.keywords[("" + k).toLowerCase()] || null;
-
-        this.search = text => db.searchFromText({ input: text });
+        this.locale     = locales[locale];
 
         const dbKeys = Object.keys(db.dbData);
-        let   code;
-        let   lower;
 
-        for (let i in this.list) {
-            for (let j in this.list[i]) {
-                for (let emoji of this.list[i][j]) {
-                    this.ordered.push(emoji.char);
+        let emoji;
+        let code;
+        let lower;
 
-                    code = dbKeys.find(k => db.dbData[k].emoji && db.dbData[k].emoji == emoji.char);
+        for (let char in this.list) {
+            emoji = list[char];
+            code  = dbKeys.find(k => db.dbData[k].emoji == char);
 
-                    if (code) {
-                        emoji.category    = db.dbData[code].category;
-                        emoji.subcatecory = db.dbData[code].sub_category;
-                        emoji.code        = db.dbData[code].code;
-                        emoji.title       = db.dbData[code].title;
-                        emoji.shortcodes  = db.dbData[code].shortcodes.github || [];
+            emoji.char = char;
 
-                        for (let key of ["aliases", "tags", "codepoints"]) {
-                            emoji[key] = db.dbData[code][key] || [];
-                        }
+            if (code) {
+                emoji.category    = db.dbData[code].category;
+                emoji.subcategory = db.dbData[code].sub_category;
+                emoji.code        = db.dbData[code].code;
+                emoji.title       = db.dbData[code].title;
+                emoji.aliases     = db.dbData[code].aliases           || [];
+                emoji.tags        = db.dbData[code].tags              || [];
+                emoji.codepoints  = db.dbData[code].codepoints        || [];
+                emoji.shortcodes  = db.dbData[code].shortcodes.github || [];
 
-                        bySlug[emoji.slug] = emoji;
-                        byChar[emoji.char] = emoji;
-                        byCode[emoji.code] = emoji;
+                bySlug[emoji.slug] = emoji;
+                byCode[emoji.code] = emoji;
 
-                        byTitle[emoji.title.toLowerCase()] = emoji;
+                byTitle[emoji.title.toLowerCase()] = emoji;
 
-                        for (let sc of emoji.shortcodes) {
-                            byShortcode[sc] = emoji;
-                        }
+                for (let sc of emoji.shortcodes) {
+                    byShortcode[sc] = emoji;
+                }
 
-                        for (let prop of [
-                            ["aliases",    byAliases],
-                            ["tags",       byTags]
-                        ]) {
-                            for (let value of emoji[prop[0]]) {
-                                lower = value.toLowerCase();
+                for (let alias of emoji.aliases) {
+                    lower = alias.toLowerCase();
 
-                                if (!prop[1][lower]) {
-                                    prop[1][lower] = [];
-                                }
-
-                                prop[1][lower].push(emoji);
-                            }
-                        }
+                    if (!byAliases[lower]) {
+                        byAliases[lower] = [];
                     }
+
+                    byAliases[lower].push(emoji);
+                }
+                for (let tag of emoji.tags) {
+                    lower = tag.toLowerCase();
+
+                    if (!byTags[lower]) {
+                        byTags[lower] = [];
+                    }
+
+                    byTags[lower].push(emoji);
                 }
             }
         }
     }
 
-    get(litelal)
+    bySlug(str)
     {
-        if (!litelal || typeof litelal != "string")
+        if (typeof str != "string")
+            return null;
+        return bySlug[str.toLowerCase()] || null;
+    }
+
+    byCode(str)
+    {
+        if (typeof str != "string")
+            return null;
+        return byCode[str.toLowerCase()] || null;
+    }
+
+    byTitle(str)
+    {
+        if (typeof str != "string")
+            return null;
+        return byTitle[str.toLowerCase()] || null;
+    }
+
+    byShortcode(str)
+    {
+        if (typeof str != "string")
+            return null;
+        return byShortcode[str.toLowerCase()] || null;
+    }
+
+    getByKeyword(str)
+    {
+        if (typeof str != "string")
+            return [];
+        return this.locale.keywords[str.toLowerCase()] || [];
+    }
+
+    search(text)
+    {
+        if (typeof text != "string")
+            return text;
+        return db.searchFromText({ input: text });
+    }
+
+    get(str)
+    {
+        if (typeof str != "string")
             return null;
 
-        return bySlug[litelal]
-            || byChar[litelal]
-            || byShortcode[litelal]
-            || byTitle[litelal.toLowerCase()]
+        return this.list[str]
+            || bySlug[str]
+            || byShortcode[str]
+            || byTitle[str.toLowerCase()]
             || null;
     }
 
     flagOf(code)
     {
-        if (typeof code != "string" || !/^[a-zA-Z]{2}$/.test(code))
+        if (typeof code != "string" || !/^[A-Za-z]{2}$/.test(code))
             return null;
 
         code = code.toLowerCase();
 
-        return this.components.regional_indicators[
-                "regional_indicator_symbol_letter_" + code[0]
-            ] + this.components.regional_indicators[
-                "regional_indicator_symbol_letter_" + code[1]
-            ];
+        const map    = this.components["regional_indicators"];
+        const prefix = "regional_indicator_symbol_letter_";
+
+        return map[prefix + code[0]] + map[prefix + code[1]];
     }
 
     getByAliases(aliases)
     {
-        if (typeof aliases != "object" || !Array.isArray(aliases)) {
+        if (!Array.isArray(aliases)) {
             aliases = [aliases];
         }
 
         let res = [];
-        let key;
+        let list;
 
         for (let alias of aliases) {
-            key = ("" + alias).toLowerCase();
+            alias = "" + alias;
+            list  = byAliases[alias.toLowerCase()];
 
-            if (byAliases[key]) {
-                res = res.concat(byAliases[key]);
+            if (list) {
+                res = res.concat(list.map(e => e.char));
             }
         }
 
@@ -133,19 +174,20 @@ class Emok
 
     getByTags(tags)
     {
-        if (typeof tags != "object" || !Array.isArray(tags)) {
+        if (!Array.isArray(tags)) {
             tags = [tags];
         }
 
         let res = [];
-        let key;
+        let list;
 
         for (let tag of tags) {
-            key = ("" + tag).toLowerCase();
+            tag  = "" + tag;
+            list = byTags[tag.toLowerCase()];
 
-            if (byTags[tag]) {
-                res = res.concat(byTags[tag]);
-            }
+            if (list) {
+                res = res.concat(list.map(e => e.char))
+            };
         }
 
         return res;
@@ -153,23 +195,23 @@ class Emok
 
     random()
     {
-        return byChar[this.ordered[
+        return this.list[this.ordered[
             this.ordered.length * Math.random() << 0
         ]];
     }
 
     emojify(text)
     {
-        if (!text || typeof text != "string")
+        if (typeof text != "string")
             return text;
 
         let shortcodes = text.match(/\:[a-zA-Z_]+\:/g);
         if (!shortcodes)
             return text;
 
-        for (let shortcode of shortcodes) {
-            if (byShortcode[shortcode]) {
-                text = text.replace(shortcode, byShortcode[shortcode].char);
+        for (let sc of shortcodes) {
+            if (byShortcode[sc]) {
+                text = text.replace(sc, byShortcode[sc].char);
             }
         }
 
@@ -178,16 +220,18 @@ class Emok
 
     setLocale(code)
     {
-        if (!code || typeof code != "string")
+        if (typeof code != "string")
             return;
-
         this.locale = this.locales[code] || this.locale;
     }
 }
 
-module.exports = new Emok(
-    require("./list.json"),
-    require("./components.json"),
-    require("./locales"),
-    "eng"
-);
+
+
+
+const list       = require("./data/list");
+const tree       = require("./data/tree");
+const components = require("./data/components");
+const locales    = require("./locales");
+
+module.exports = new Emok(list, tree, components, locales);

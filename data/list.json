@@ -1,0 +1,8952 @@
+{
+	"😀": {
+		"slug": "grinning_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😃": {
+		"slug": "grinning_face_with_big_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😄": {
+		"slug": "grinning_face_with_smiling_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😁": {
+		"slug": "beaming_face_with_smiling_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😆": {
+		"slug": "grinning_squinting_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😅": {
+		"slug": "grinning_face_with_sweat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤣": {
+		"slug": "rolling_on_the_floor_laughing",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"😂": {
+		"slug": "face_with_tears_of_joy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🙂": {
+		"slug": "slightly_smiling_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🙃": {
+		"slug": "upside_down_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😉": {
+		"slug": "winking_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😊": {
+		"slug": "smiling_face_with_smiling_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😇": {
+		"slug": "smiling_face_with_halo",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥰": {
+		"slug": "smiling_face_with_hearts",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"😍": {
+		"slug": "smiling_face_with_heart_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤩": {
+		"slug": "star_struck",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"😘": {
+		"slug": "face_blowing_a_kiss",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😗": {
+		"slug": "kissing_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"☺️": {
+		"slug": "smiling_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😚": {
+		"slug": "kissing_face_with_closed_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😙": {
+		"slug": "kissing_face_with_smiling_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥲": {
+		"slug": "smiling_face_with_tear",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"😋": {
+		"slug": "face_savoring_food",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😛": {
+		"slug": "face_with_tongue",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😜": {
+		"slug": "winking_face_with_tongue",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤪": {
+		"slug": "zany_face",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"😝": {
+		"slug": "squinting_face_with_tongue",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤑": {
+		"slug": "money_mouth_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤗": {
+		"slug": "hugging_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤭": {
+		"slug": "face_with_hand_over_mouth",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🤫": {
+		"slug": "shushing_face",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🤔": {
+		"slug": "thinking_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤐": {
+		"slug": "zipper_mouth_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤨": {
+		"slug": "face_with_raised_eyebrow",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"😐": {
+		"slug": "neutral_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"😑": {
+		"slug": "expressionless_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😶": {
+		"slug": "face_without_mouth",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😏": {
+		"slug": "smirking_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😒": {
+		"slug": "unamused_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🙄": {
+		"slug": "face_with_rolling_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😬": {
+		"slug": "grimacing_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤥": {
+		"slug": "lying_face",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"😌": {
+		"slug": "relieved_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😔": {
+		"slug": "pensive_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😪": {
+		"slug": "sleepy_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤤": {
+		"slug": "drooling_face",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"😴": {
+		"slug": "sleeping_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😷": {
+		"slug": "face_with_medical_mask",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤒": {
+		"slug": "face_with_thermometer",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤕": {
+		"slug": "face_with_head_bandage",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤢": {
+		"slug": "nauseated_face",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🤮": {
+		"slug": "face_vomiting",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🤧": {
+		"slug": "sneezing_face",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥵": {
+		"slug": "hot_face",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥶": {
+		"slug": "cold_face",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥴": {
+		"slug": "woozy_face",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"😵": {
+		"slug": "knocked_out_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤯": {
+		"slug": "exploding_head",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🤠": {
+		"slug": "cowboy_hat_face",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥳": {
+		"slug": "partying_face",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥸": {
+		"slug": "disguised_face",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"😎": {
+		"slug": "smiling_face_with_sunglasses",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🤓": {
+		"slug": "nerd_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🧐": {
+		"slug": "face_with_monocle",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"😕": {
+		"slug": "confused_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😟": {
+		"slug": "worried_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🙁": {
+		"slug": "slightly_frowning_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"☹️": {
+		"slug": "frowning_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"😮": {
+		"slug": "face_with_open_mouth",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😯": {
+		"slug": "hushed_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😲": {
+		"slug": "astonished_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😳": {
+		"slug": "flushed_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥺": {
+		"slug": "pleading_face",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"😦": {
+		"slug": "frowning_face_with_open_mouth",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😧": {
+		"slug": "anguished_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"😨": {
+		"slug": "fearful_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😰": {
+		"slug": "anxious_face_with_sweat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😥": {
+		"slug": "sad_but_relieved_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😢": {
+		"slug": "crying_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😭": {
+		"slug": "loudly_crying_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😱": {
+		"slug": "face_screaming_in_fear",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😖": {
+		"slug": "confounded_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😣": {
+		"slug": "persevering_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😞": {
+		"slug": "disappointed_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😓": {
+		"slug": "downcast_face_with_sweat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😩": {
+		"slug": "weary_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😫": {
+		"slug": "tired_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥱": {
+		"slug": "yawning_face",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"😤": {
+		"slug": "face_with_steam_from_nose",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😡": {
+		"slug": "pouting_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😠": {
+		"slug": "angry_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤬": {
+		"slug": "face_with_symbols_on_mouth",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"😈": {
+		"slug": "smiling_face_with_horns",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"👿": {
+		"slug": "angry_face_with_horns",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😺": {
+		"slug": "grinning_cat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😸": {
+		"slug": "grinning_cat_with_smiling_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😹": {
+		"slug": "cat_with_tears_of_joy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😻": {
+		"slug": "smiling_cat_with_heart_eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😼": {
+		"slug": "cat_with_wry_smile",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😽": {
+		"slug": "kissing_cat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🙀": {
+		"slug": "weary_cat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😿": {
+		"slug": "crying_cat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"😾": {
+		"slug": "pouting_cat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🙈": {
+		"slug": "see_no_evil_monkey",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🙉": {
+		"slug": "hear_no_evil_monkey",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🙊": {
+		"slug": "speak_no_evil_monkey",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👋": {
+		"slug": "waving_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤚": {
+		"slug": "raised_back_of_hand",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🖐️": {
+		"slug": "hand_with_fingers_splayed",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"✋": {
+		"slug": "raised_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🖖": {
+		"slug": "vulcan_salute",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"👌": {
+		"slug": "ok_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤌": {
+		"slug": "pinched_fingers",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"🤏": {
+		"slug": "pinching_hand",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"✌️": {
+		"slug": "victory_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤞": {
+		"slug": "crossed_fingers",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤟": {
+		"slug": "love_you_gesture",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🤘": {
+		"slug": "sign_of_the_horns",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"🤙": {
+		"slug": "call_me_hand",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"👈": {
+		"slug": "backhand_index_pointing_left",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👉": {
+		"slug": "backhand_index_pointing_right",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👆": {
+		"slug": "backhand_index_pointing_up",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🖕": {
+		"slug": "middle_finger",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"👇": {
+		"slug": "backhand_index_pointing_down",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"☝️": {
+		"slug": "index_pointing_up",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👍": {
+		"slug": "thumbs_up",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👎": {
+		"slug": "thumbs_down",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"✊": {
+		"slug": "raised_fist",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👊": {
+		"slug": "oncoming_fist",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤛": {
+		"slug": "left_facing_fist",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤜": {
+		"slug": "right_facing_fist",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"👏": {
+		"slug": "clapping_hands",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙌": {
+		"slug": "raising_hands",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👐": {
+		"slug": "open_hands",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤲": {
+		"slug": "palms_up_together",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🤝": {
+		"slug": "handshake",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🙏": {
+		"slug": "folded_hands",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"✍️": {
+		"slug": "writing_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"💅": {
+		"slug": "nail_polish",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤳": {
+		"slug": "selfie",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"💪": {
+		"slug": "flexed_biceps",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🦾": {
+		"slug": "mechanical_arm",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦿": {
+		"slug": "mechanical_leg",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦵": {
+		"slug": "leg",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🦶": {
+		"slug": "foot",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"👂": {
+		"slug": "ear",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🦻": {
+		"slug": "ear_with_hearing_aid",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"👃": {
+		"slug": "nose",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🧠": {
+		"slug": "brain",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🫀": {
+		"slug": "anatomical_heart",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🫁": {
+		"slug": "lungs",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦷": {
+		"slug": "tooth",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦴": {
+		"slug": "bone",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"👀": {
+		"slug": "eyes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👁️": {
+		"slug": "eye",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"👅": {
+		"slug": "tongue",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👄": {
+		"slug": "mouth",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👶": {
+		"slug": "baby",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🧒": {
+		"slug": "child",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"👦": {
+		"slug": "boy",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👧": {
+		"slug": "girl",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🧑": {
+		"slug": "person",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"👨": {
+		"slug": "man",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🧔": {
+		"slug": "person_beard",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"👩": {
+		"slug": "woman",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🧓": {
+		"slug": "older_person",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"👴": {
+		"slug": "old_man",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👵": {
+		"slug": "old_woman",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👳": {
+		"slug": "person_wearing_turban",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👳‍♂️": {
+		"slug": "man_wearing_turban",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👳‍♀️": {
+		"slug": "woman_wearing_turban",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👲": {
+		"slug": "person_with_skullcap",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🧕": {
+		"slug": "woman_with_headscarf",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🤵": {
+		"slug": "person_in_tuxedo",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤵‍♂️": {
+		"slug": "man_in_tuxedo",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"🤵‍♀️": {
+		"slug": "woman_in_tuxedo",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"👰": {
+		"slug": "person_with_veil",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👰‍♂️": {
+		"slug": "man_with_veil",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"👰‍♀️": {
+		"slug": "woman_with_veil",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"🤰": {
+		"slug": "pregnant_woman",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤱": {
+		"slug": "breast_feeding",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"👩‍🍼": {
+		"slug": "woman_feeding_baby",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"👨‍🍼": {
+		"slug": "man_feeding_baby",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"🧑‍🍼": {
+		"slug": "person_feeding_baby",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"🙍": {
+		"slug": "person_frowning",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙍‍♂️": {
+		"slug": "man_frowning",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙍‍♀️": {
+		"slug": "woman_frowning",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙎": {
+		"slug": "person_pouting",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙎‍♂️": {
+		"slug": "man_pouting",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙎‍♀️": {
+		"slug": "woman_pouting",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙅": {
+		"slug": "person_gesturing_no",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙅‍♂️": {
+		"slug": "man_gesturing_no",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙅‍♀️": {
+		"slug": "woman_gesturing_no",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙆": {
+		"slug": "person_gesturing_ok",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙆‍♂️": {
+		"slug": "man_gesturing_ok",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙆‍♀️": {
+		"slug": "woman_gesturing_ok",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💁": {
+		"slug": "person_tipping_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"💁‍♂️": {
+		"slug": "man_tipping_hand",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💁‍♀️": {
+		"slug": "woman_tipping_hand",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙋": {
+		"slug": "person_raising_hand",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙋‍♂️": {
+		"slug": "man_raising_hand",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙋‍♀️": {
+		"slug": "woman_raising_hand",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧏": {
+		"slug": "deaf_person",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧏‍♂️": {
+		"slug": "deaf_man",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧏‍♀️": {
+		"slug": "deaf_woman",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🙇": {
+		"slug": "person_bowing",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🙇‍♂️": {
+		"slug": "man_bowing",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🙇‍♀️": {
+		"slug": "woman_bowing",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤦": {
+		"slug": "person_facepalming",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤦‍♂️": {
+		"slug": "man_facepalming",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤦‍♀️": {
+		"slug": "woman_facepalming",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤷": {
+		"slug": "person_shrugging",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤷‍♂️": {
+		"slug": "man_shrugging",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤷‍♀️": {
+		"slug": "woman_shrugging",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍⚕️": {
+		"slug": "health_worker",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍⚕️": {
+		"slug": "man_health_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍⚕️": {
+		"slug": "woman_health_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🎓": {
+		"slug": "student",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🎓": {
+		"slug": "man_student",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🎓": {
+		"slug": "woman_student",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🏫": {
+		"slug": "teacher",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🏫": {
+		"slug": "man_teacher",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🏫": {
+		"slug": "woman_teacher",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍⚖️": {
+		"slug": "judge",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍⚖️": {
+		"slug": "man_judge",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍⚖️": {
+		"slug": "woman_judge",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🌾": {
+		"slug": "farmer",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🌾": {
+		"slug": "man_farmer",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🌾": {
+		"slug": "woman_farmer",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🍳": {
+		"slug": "cook",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🍳": {
+		"slug": "man_cook",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🍳": {
+		"slug": "woman_cook",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🔧": {
+		"slug": "mechanic",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🔧": {
+		"slug": "man_mechanic",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🔧": {
+		"slug": "woman_mechanic",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🏭": {
+		"slug": "factory_worker",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🏭": {
+		"slug": "man_factory_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🏭": {
+		"slug": "woman_factory_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍💼": {
+		"slug": "office_worker",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍💼": {
+		"slug": "man_office_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍💼": {
+		"slug": "woman_office_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🔬": {
+		"slug": "scientist",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🔬": {
+		"slug": "man_scientist",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🔬": {
+		"slug": "woman_scientist",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍💻": {
+		"slug": "technologist",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍💻": {
+		"slug": "man_technologist",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍💻": {
+		"slug": "woman_technologist",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🎤": {
+		"slug": "singer",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🎤": {
+		"slug": "man_singer",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🎤": {
+		"slug": "woman_singer",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🎨": {
+		"slug": "artist",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🎨": {
+		"slug": "man_artist",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🎨": {
+		"slug": "woman_artist",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍✈️": {
+		"slug": "pilot",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍✈️": {
+		"slug": "man_pilot",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍✈️": {
+		"slug": "woman_pilot",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🚀": {
+		"slug": "astronaut",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🚀": {
+		"slug": "man_astronaut",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🚀": {
+		"slug": "woman_astronaut",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧑‍🚒": {
+		"slug": "firefighter",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🚒": {
+		"slug": "man_firefighter",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👩‍🚒": {
+		"slug": "woman_firefighter",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👮": {
+		"slug": "police_officer",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👮‍♂️": {
+		"slug": "man_police_officer",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👮‍♀️": {
+		"slug": "woman_police_officer",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🕵️": {
+		"slug": "detective",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"🕵️‍♂️": {
+		"slug": "man_detective",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🕵️‍♀️": {
+		"slug": "woman_detective",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💂": {
+		"slug": "guard",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"💂‍♂️": {
+		"slug": "man_guard",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💂‍♀️": {
+		"slug": "woman_guard",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🥷": {
+		"slug": "ninja",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"👷": {
+		"slug": "construction_worker",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👷‍♂️": {
+		"slug": "man_construction_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"👷‍♀️": {
+		"slug": "woman_construction_worker",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤴": {
+		"slug": "prince",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"👸": {
+		"slug": "princess",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👼": {
+		"slug": "baby_angel",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"💀": {
+		"slug": "skull",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☠️": {
+		"slug": "skull_and_crossbones",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💩": {
+		"slug": "pile_of_poo",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤡": {
+		"slug": "clown_face",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"👹": {
+		"slug": "ogre",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👺": {
+		"slug": "goblin",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👻": {
+		"slug": "ghost",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👽": {
+		"slug": "alien",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👾": {
+		"slug": "alien_monster",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤖": {
+		"slug": "robot",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🎅": {
+		"slug": "santa_claus",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🤶": {
+		"slug": "mrs_claus",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🧑‍🎄": {
+		"slug": "mx_claus",
+		"skin_tone_support": true,
+		"unicode_version": "13.0"
+	},
+	"🦸": {
+		"slug": "superhero",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🦸‍♂️": {
+		"slug": "man_superhero",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🦸‍♀️": {
+		"slug": "woman_superhero",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🦹": {
+		"slug": "supervillain",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🦹‍♂️": {
+		"slug": "man_supervillain",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🦹‍♀️": {
+		"slug": "woman_supervillain",
+		"skin_tone_support": true,
+		"unicode_version": "11.0"
+	},
+	"🧙": {
+		"slug": "mage",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧙‍♂️": {
+		"slug": "man_mage",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧙‍♀️": {
+		"slug": "woman_mage",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧚": {
+		"slug": "fairy",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧚‍♂️": {
+		"slug": "man_fairy",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧚‍♀️": {
+		"slug": "woman_fairy",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧛": {
+		"slug": "vampire",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧛‍♂️": {
+		"slug": "man_vampire",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧛‍♀️": {
+		"slug": "woman_vampire",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧜": {
+		"slug": "merperson",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧜‍♂️": {
+		"slug": "merman",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧜‍♀️": {
+		"slug": "mermaid",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧝": {
+		"slug": "elf",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧝‍♂️": {
+		"slug": "man_elf",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧝‍♀️": {
+		"slug": "woman_elf",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧞": {
+		"slug": "genie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧞‍♂️": {
+		"slug": "man_genie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧞‍♀️": {
+		"slug": "woman_genie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧟": {
+		"slug": "zombie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧟‍♂️": {
+		"slug": "man_zombie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧟‍♀️": {
+		"slug": "woman_zombie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧑‍🤝‍🧑": {
+		"slug": "people_holding_hands",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"👭": {
+		"slug": "women_holding_hands",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"👫": {
+		"slug": "woman_and_man_holding_hands",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"👬": {
+		"slug": "men_holding_hands",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"💏": {
+		"slug": "kiss",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👩‍❤️‍💋‍👨": {
+		"slug": "kiss_woman_man",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍❤️‍💋‍👨": {
+		"slug": "kiss_man_man",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍❤️‍💋‍👩": {
+		"slug": "kiss_woman_woman",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"💑": {
+		"slug": "couple_with_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👩‍❤️‍👨": {
+		"slug": "couple_with_heart_woman_man",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍❤️‍👨": {
+		"slug": "couple_with_heart_man_man",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍❤️‍👩": {
+		"slug": "couple_with_heart_woman_woman",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👪": {
+		"slug": "family",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👨‍👩‍👦": {
+		"slug": "family_man_woman_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👩‍👧": {
+		"slug": "family_man_woman_girl",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👩‍👧‍👦": {
+		"slug": "family_man_woman_girl_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👩‍👦‍👦": {
+		"slug": "family_man_woman_boy_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👩‍👧‍👧": {
+		"slug": "family_man_woman_girl_girl",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👨‍👦": {
+		"slug": "family_man_man_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👨‍👧": {
+		"slug": "family_man_man_girl",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👨‍👧‍👦": {
+		"slug": "family_man_man_girl_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👨‍👦‍👦": {
+		"slug": "family_man_man_boy_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👨‍👧‍👧": {
+		"slug": "family_man_man_girl_girl",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍👩‍👦": {
+		"slug": "family_woman_woman_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍👩‍👧": {
+		"slug": "family_woman_woman_girl",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍👩‍👧‍👦": {
+		"slug": "family_woman_woman_girl_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍👩‍👦‍👦": {
+		"slug": "family_woman_woman_boy_boy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👩‍👩‍👧‍👧": {
+		"slug": "family_woman_woman_girl_girl",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"👨‍👦": {
+		"slug": "family_man_boy",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👨‍👦‍👦": {
+		"slug": "family_man_boy_boy",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👨‍👧": {
+		"slug": "family_man_girl",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👨‍👧‍👦": {
+		"slug": "family_man_girl_boy",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👨‍👧‍👧": {
+		"slug": "family_man_girl_girl",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👩‍👦": {
+		"slug": "family_woman_boy",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👩‍👦‍👦": {
+		"slug": "family_woman_boy_boy",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👩‍👧": {
+		"slug": "family_woman_girl",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👩‍👧‍👦": {
+		"slug": "family_woman_girl_boy",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👩‍👧‍👧": {
+		"slug": "family_woman_girl_girl",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"🗣️": {
+		"slug": "speaking_head",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"👤": {
+		"slug": "bust_in_silhouette",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👥": {
+		"slug": "busts_in_silhouette",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🫂": {
+		"slug": "people_hugging",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"👣": {
+		"slug": "footprints",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💆": {
+		"slug": "person_getting_massage",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"💆‍♂️": {
+		"slug": "man_getting_massage",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💆‍♀️": {
+		"slug": "woman_getting_massage",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💇": {
+		"slug": "person_getting_haircut",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"💇‍♂️": {
+		"slug": "man_getting_haircut",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💇‍♀️": {
+		"slug": "woman_getting_haircut",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚶": {
+		"slug": "person_walking",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🚶‍♂️": {
+		"slug": "man_walking",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚶‍♀️": {
+		"slug": "woman_walking",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧍": {
+		"slug": "person_standing",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧍‍♂️": {
+		"slug": "man_standing",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧍‍♀️": {
+		"slug": "woman_standing",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧎": {
+		"slug": "person_kneeling",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧎‍♂️": {
+		"slug": "man_kneeling",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧎‍♀️": {
+		"slug": "woman_kneeling",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧑‍🦯": {
+		"slug": "person_with_white_cane",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🦯": {
+		"slug": "man_with_white_cane",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"👩‍🦯": {
+		"slug": "woman_with_white_cane",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧑‍🦼": {
+		"slug": "person_in_motorized_wheelchair",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🦼": {
+		"slug": "man_in_motorized_wheelchair",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"👩‍🦼": {
+		"slug": "woman_in_motorized_wheelchair",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🧑‍🦽": {
+		"slug": "person_in_manual_wheelchair",
+		"skin_tone_support": true,
+		"unicode_version": "12.1"
+	},
+	"👨‍🦽": {
+		"slug": "man_in_manual_wheelchair",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"👩‍🦽": {
+		"slug": "woman_in_manual_wheelchair",
+		"skin_tone_support": true,
+		"unicode_version": "12.0"
+	},
+	"🏃": {
+		"slug": "person_running",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🏃‍♂️": {
+		"slug": "man_running",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏃‍♀️": {
+		"slug": "woman_running",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"💃": {
+		"slug": "woman_dancing",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🕺": {
+		"slug": "man_dancing",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🕴️": {
+		"slug": "person_in_suit_levitating",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"👯": {
+		"slug": "people_with_bunny_ears",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👯‍♂️": {
+		"slug": "men_with_bunny_ears",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"👯‍♀️": {
+		"slug": "women_with_bunny_ears",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"🧗": {
+		"slug": "person_climbing",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧗‍♂️": {
+		"slug": "man_climbing",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧗‍♀️": {
+		"slug": "woman_climbing",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🤺": {
+		"slug": "person_fencing",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🏇": {
+		"slug": "horse_racing",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"⛷️": {
+		"slug": "skier",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏂": {
+		"slug": "snowboarder",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🏌️": {
+		"slug": "person_golfing",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"🏌️‍♂️": {
+		"slug": "man_golfing",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏌️‍♀️": {
+		"slug": "woman_golfing",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏄": {
+		"slug": "person_surfing",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🏄‍♂️": {
+		"slug": "man_surfing",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏄‍♀️": {
+		"slug": "woman_surfing",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚣": {
+		"slug": "person_rowing_boat",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"🚣‍♂️": {
+		"slug": "man_rowing_boat",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚣‍♀️": {
+		"slug": "woman_rowing_boat",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏊": {
+		"slug": "person_swimming",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🏊‍♂️": {
+		"slug": "man_swimming",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏊‍♀️": {
+		"slug": "woman_swimming",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"⛹️": {
+		"slug": "person_bouncing_ball",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"⛹️‍♂️": {
+		"slug": "man_bouncing_ball",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"⛹️‍♀️": {
+		"slug": "woman_bouncing_ball",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏋️": {
+		"slug": "person_lifting_weights",
+		"skin_tone_support": true,
+		"unicode_version": "0.7"
+	},
+	"🏋️‍♂️": {
+		"slug": "man_lifting_weights",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🏋️‍♀️": {
+		"slug": "woman_lifting_weights",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚴": {
+		"slug": "person_biking",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"🚴‍♂️": {
+		"slug": "man_biking",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚴‍♀️": {
+		"slug": "woman_biking",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚵": {
+		"slug": "person_mountain_biking",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"🚵‍♂️": {
+		"slug": "man_mountain_biking",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🚵‍♀️": {
+		"slug": "woman_mountain_biking",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤸": {
+		"slug": "person_cartwheeling",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤸‍♂️": {
+		"slug": "man_cartwheeling",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤸‍♀️": {
+		"slug": "woman_cartwheeling",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤼": {
+		"slug": "people_wrestling",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🤼‍♂️": {
+		"slug": "men_wrestling",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"🤼‍♀️": {
+		"slug": "women_wrestling",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"🤽": {
+		"slug": "person_playing_water_polo",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤽‍♂️": {
+		"slug": "man_playing_water_polo",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤽‍♀️": {
+		"slug": "woman_playing_water_polo",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤾": {
+		"slug": "person_playing_handball",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤾‍♂️": {
+		"slug": "man_playing_handball",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤾‍♀️": {
+		"slug": "woman_playing_handball",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤹": {
+		"slug": "person_juggling",
+		"skin_tone_support": true,
+		"unicode_version": "3.0"
+	},
+	"🤹‍♂️": {
+		"slug": "man_juggling",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🤹‍♀️": {
+		"slug": "woman_juggling",
+		"skin_tone_support": true,
+		"unicode_version": "4.0"
+	},
+	"🧖": {
+		"slug": "person_in_steamy_room",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧖‍♂️": {
+		"slug": "man_in_steamy_room",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧖‍♀️": {
+		"slug": "woman_in_steamy_room",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧘": {
+		"slug": "person_in_lotus_position",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧘‍♂️": {
+		"slug": "man_in_lotus_position",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🧘‍♀️": {
+		"slug": "woman_in_lotus_position",
+		"skin_tone_support": true,
+		"unicode_version": "5.0"
+	},
+	"🛀": {
+		"slug": "person_taking_bath",
+		"skin_tone_support": true,
+		"unicode_version": "0.6"
+	},
+	"🛌": {
+		"slug": "person_in_bed",
+		"skin_tone_support": true,
+		"unicode_version": "1.0"
+	},
+	"⚽": {
+		"slug": "soccer_ball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⚾": {
+		"slug": "baseball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥎": {
+		"slug": "softball",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🏀": {
+		"slug": "basketball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏐": {
+		"slug": "volleyball",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏈": {
+		"slug": "american_football",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏉": {
+		"slug": "rugby_football",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🎾": {
+		"slug": "tennis",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥏": {
+		"slug": "flying_disc",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🎳": {
+		"slug": "bowling",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏏": {
+		"slug": "cricket_game",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏑": {
+		"slug": "field_hockey",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏒": {
+		"slug": "ice_hockey",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥍": {
+		"slug": "lacrosse",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🏓": {
+		"slug": "ping_pong",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏸": {
+		"slug": "badminton",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥊": {
+		"slug": "boxing_glove",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥋": {
+		"slug": "martial_arts_uniform",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥅": {
+		"slug": "goal_net",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"⛳": {
+		"slug": "flag_in_hole",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛸️": {
+		"slug": "ice_skate",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎣": {
+		"slug": "fishing_pole",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤿": {
+		"slug": "diving_mask",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🎽": {
+		"slug": "running_shirt",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎿": {
+		"slug": "skis",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛷": {
+		"slug": "sled",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥌": {
+		"slug": "curling_stone",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🎯": {
+		"slug": "direct_hit",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪀": {
+		"slug": "yo_yo",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🪁": {
+		"slug": "kite",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🎱": {
+		"slug": "pool_8_ball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎮": {
+		"slug": "video_game",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕹️": {
+		"slug": "joystick",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎰": {
+		"slug": "slot_machine",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎲": {
+		"slug": "game_die",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧩": {
+		"slug": "puzzle_piece",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧸": {
+		"slug": "teddy_bear",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪅": {
+		"slug": "pinata",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🪆": {
+		"slug": "nesting_dolls",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"♠️": {
+		"slug": "spade_suit",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♥️": {
+		"slug": "heart_suit",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♦️": {
+		"slug": "diamond_suit",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♣️": {
+		"slug": "club_suit",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♟️": {
+		"slug": "chess_pawn",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🃏": {
+		"slug": "joker",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🀄": {
+		"slug": "mahjong_red_dragon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎴": {
+		"slug": "flower_playing_cards",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔮": {
+		"slug": "crystal_ball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪄": {
+		"slug": "magic_wand",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🧿": {
+		"slug": "nazar_amulet",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🎭": {
+		"slug": "performing_arts",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🖼️": {
+		"slug": "framed_picture",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎨": {
+		"slug": "artist_palette",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧵": {
+		"slug": "thread",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪡": {
+		"slug": "sewing_needle",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🧶": {
+		"slug": "yarn",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪢": {
+		"slug": "knot",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"💋": {
+		"slug": "kiss_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💌": {
+		"slug": "love_letter",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💘": {
+		"slug": "heart_with_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💝": {
+		"slug": "heart_with_ribbon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💖": {
+		"slug": "sparkling_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💗": {
+		"slug": "growing_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💓": {
+		"slug": "beating_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💞": {
+		"slug": "revolving_hearts",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💕": {
+		"slug": "two_hearts",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💟": {
+		"slug": "heart_decoration",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❣️": {
+		"slug": "heart_exclamation",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💔": {
+		"slug": "broken_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❤️": {
+		"slug": "red_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧡": {
+		"slug": "orange_heart",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"💛": {
+		"slug": "yellow_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💚": {
+		"slug": "green_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💙": {
+		"slug": "blue_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💜": {
+		"slug": "purple_heart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🤎": {
+		"slug": "brown_heart",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🖤": {
+		"slug": "black_heart",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🤍": {
+		"slug": "white_heart",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"💯": {
+		"slug": "hundred_points",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💢": {
+		"slug": "anger_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💥": {
+		"slug": "collision",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💫": {
+		"slug": "dizzy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💦": {
+		"slug": "sweat_droplets",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💨": {
+		"slug": "dashing_away",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕳️": {
+		"slug": "hole",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"💣": {
+		"slug": "bomb",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💬": {
+		"slug": "speech_balloon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👁️‍🗨️": {
+		"slug": "eye_in_speech_bubble",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🗨️": {
+		"slug": "left_speech_bubble",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🗯️": {
+		"slug": "right_anger_bubble",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"💭": {
+		"slug": "thought_balloon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💤": {
+		"slug": "zzz",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎃": {
+		"slug": "jack_o_lantern",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎄": {
+		"slug": "christmas_tree",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎆": {
+		"slug": "fireworks",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎇": {
+		"slug": "sparkler",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧨": {
+		"slug": "firecracker",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"✨": {
+		"slug": "sparkles",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎈": {
+		"slug": "balloon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎉": {
+		"slug": "party_popper",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎊": {
+		"slug": "confetti_ball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎋": {
+		"slug": "tanabata_tree",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎍": {
+		"slug": "pine_decoration",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎎": {
+		"slug": "japanese_dolls",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎏": {
+		"slug": "carp_streamer",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎐": {
+		"slug": "wind_chime",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎑": {
+		"slug": "moon_viewing_ceremony",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧧": {
+		"slug": "red_envelope",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🎀": {
+		"slug": "ribbon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎁": {
+		"slug": "wrapped_gift",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎗️": {
+		"slug": "reminder_ribbon",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎟️": {
+		"slug": "admission_tickets",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎫": {
+		"slug": "ticket",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎖️": {
+		"slug": "military_medal",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏆": {
+		"slug": "trophy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏅": {
+		"slug": "sports_medal",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥇": {
+		"slug": "1st_place_medal",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥈": {
+		"slug": "2nd_place_medal",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥉": {
+		"slug": "3rd_place_medal",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🐵": {
+		"slug": "monkey_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐒": {
+		"slug": "monkey",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦍": {
+		"slug": "gorilla",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦧": {
+		"slug": "orangutan",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🐶": {
+		"slug": "dog_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐕": {
+		"slug": "dog",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🦮": {
+		"slug": "guide_dog",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🐕‍🦺": {
+		"slug": "service_dog",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🐩": {
+		"slug": "poodle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐺": {
+		"slug": "wolf",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦊": {
+		"slug": "fox",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦝": {
+		"slug": "raccoon",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🐱": {
+		"slug": "cat_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐈": {
+		"slug": "cat",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🐈‍⬛": {
+		"slug": "black_cat",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦁": {
+		"slug": "lion",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐯": {
+		"slug": "tiger_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐅": {
+		"slug": "tiger",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐆": {
+		"slug": "leopard",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐴": {
+		"slug": "horse_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐎": {
+		"slug": "horse",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦄": {
+		"slug": "unicorn",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🦓": {
+		"slug": "zebra",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🦌": {
+		"slug": "deer",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦬": {
+		"slug": "bison",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🐮": {
+		"slug": "cow_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐂": {
+		"slug": "ox",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐃": {
+		"slug": "water_buffalo",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐄": {
+		"slug": "cow",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐷": {
+		"slug": "pig_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐖": {
+		"slug": "pig",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐗": {
+		"slug": "boar",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐽": {
+		"slug": "pig_nose",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐏": {
+		"slug": "ram",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐑": {
+		"slug": "ewe",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐐": {
+		"slug": "goat",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐪": {
+		"slug": "camel",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐫": {
+		"slug": "two_hump_camel",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦙": {
+		"slug": "llama",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦒": {
+		"slug": "giraffe",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🐘": {
+		"slug": "elephant",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦣": {
+		"slug": "mammoth",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦏": {
+		"slug": "rhinoceros",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦛": {
+		"slug": "hippopotamus",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🐭": {
+		"slug": "mouse_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐁": {
+		"slug": "mouse",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐀": {
+		"slug": "rat",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐹": {
+		"slug": "hamster",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐰": {
+		"slug": "rabbit_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐇": {
+		"slug": "rabbit",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐿️": {
+		"slug": "chipmunk",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🦫": {
+		"slug": "beaver",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦔": {
+		"slug": "hedgehog",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🦇": {
+		"slug": "bat",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🐻": {
+		"slug": "bear",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐻‍❄️": {
+		"slug": "polar_bear",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🐨": {
+		"slug": "koala",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐼": {
+		"slug": "panda",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦥": {
+		"slug": "sloth",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦦": {
+		"slug": "otter",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦨": {
+		"slug": "skunk",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦘": {
+		"slug": "kangaroo",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦡": {
+		"slug": "badger",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🐾": {
+		"slug": "paw_prints",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦃": {
+		"slug": "turkey",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐔": {
+		"slug": "chicken",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐓": {
+		"slug": "rooster",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐣": {
+		"slug": "hatching_chick",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐤": {
+		"slug": "baby_chick",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐥": {
+		"slug": "front_facing_baby_chick",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐦": {
+		"slug": "bird",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐧": {
+		"slug": "penguin",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕊️": {
+		"slug": "dove",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🦅": {
+		"slug": "eagle",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦆": {
+		"slug": "duck",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦢": {
+		"slug": "swan",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦉": {
+		"slug": "owl",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦤": {
+		"slug": "dodo",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🪶": {
+		"slug": "feather",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦩": {
+		"slug": "flamingo",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦚": {
+		"slug": "peacock",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦜": {
+		"slug": "parrot",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🐸": {
+		"slug": "frog",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐊": {
+		"slug": "crocodile",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐢": {
+		"slug": "turtle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦎": {
+		"slug": "lizard",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🐍": {
+		"slug": "snake",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐲": {
+		"slug": "dragon_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐉": {
+		"slug": "dragon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🦕": {
+		"slug": "sauropod",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🦖": {
+		"slug": "t_rex",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🐳": {
+		"slug": "spouting_whale",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐋": {
+		"slug": "whale",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🐬": {
+		"slug": "dolphin",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦭": {
+		"slug": "seal",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🐟": {
+		"slug": "fish",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐠": {
+		"slug": "tropical_fish",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐡": {
+		"slug": "blowfish",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦈": {
+		"slug": "shark",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🐙": {
+		"slug": "octopus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐚": {
+		"slug": "spiral_shell",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐌": {
+		"slug": "snail",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦋": {
+		"slug": "butterfly",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🐛": {
+		"slug": "bug",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐜": {
+		"slug": "ant",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🐝": {
+		"slug": "honeybee",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪲": {
+		"slug": "beetle",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🐞": {
+		"slug": "lady_beetle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🦗": {
+		"slug": "cricket",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🪳": {
+		"slug": "cockroach",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦟": {
+		"slug": "mosquito",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪰": {
+		"slug": "fly",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🕷️": {
+		"slug": "spider",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕸️": {
+		"slug": "spider_web",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🦂": {
+		"slug": "scorpion",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💐": {
+		"slug": "bouquet",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌸": {
+		"slug": "cherry_blossom",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💮": {
+		"slug": "white_flower",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏵️": {
+		"slug": "rosette",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌹": {
+		"slug": "rose",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥀": {
+		"slug": "wilted_flower",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🌺": {
+		"slug": "hibiscus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌻": {
+		"slug": "sunflower",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌼": {
+		"slug": "blossom",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌷": {
+		"slug": "tulip",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌱": {
+		"slug": "seedling",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪴": {
+		"slug": "potted_plant",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🌲": {
+		"slug": "evergreen_tree",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌳": {
+		"slug": "deciduous_tree",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌴": {
+		"slug": "palm_tree",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌵": {
+		"slug": "cactus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌾": {
+		"slug": "sheaf_of_rice",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌿": {
+		"slug": "herb",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☘️": {
+		"slug": "shamrock",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🍀": {
+		"slug": "four_leaf_clover",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍁": {
+		"slug": "maple_leaf",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍂": {
+		"slug": "fallen_leaf",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍃": {
+		"slug": "leaf_fluttering_in_wind",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪱": {
+		"slug": "worm",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🦠": {
+		"slug": "microbe",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🍊": {
+		"slug": "tangerine",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍋": {
+		"slug": "lemon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🍌": {
+		"slug": "banana",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍍": {
+		"slug": "pineapple",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥭": {
+		"slug": "mango",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🍎": {
+		"slug": "red_apple",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍏": {
+		"slug": "green_apple",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍐": {
+		"slug": "pear",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🍑": {
+		"slug": "peach",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍒": {
+		"slug": "cherries",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🫒": {
+		"slug": "olive",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🥥": {
+		"slug": "coconut",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥑": {
+		"slug": "avocado",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🍇": {
+		"slug": "grapes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍓": {
+		"slug": "strawberry",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🫐": {
+		"slug": "blueberries",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🥝": {
+		"slug": "kiwi_fruit",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🍅": {
+		"slug": "tomato",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍆": {
+		"slug": "eggplant",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌶️": {
+		"slug": "hot_pepper",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🫑": {
+		"slug": "bell_pepper",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🍈": {
+		"slug": "melon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍉": {
+		"slug": "watermelon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥒": {
+		"slug": "cucumber",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥔": {
+		"slug": "potato",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥕": {
+		"slug": "carrot",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥬": {
+		"slug": "leafy_green",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥦": {
+		"slug": "broccoli",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧄": {
+		"slug": "garlic",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🧅": {
+		"slug": "onion",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🥜": {
+		"slug": "peanuts",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🌰": {
+		"slug": "chestnut",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌽": {
+		"slug": "ear_of_corn",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍄": {
+		"slug": "mushroom",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍞": {
+		"slug": "bread",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥐": {
+		"slug": "croissant",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥖": {
+		"slug": "baguette_bread",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🫓": {
+		"slug": "flatbread",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🥨": {
+		"slug": "pretzel",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥯": {
+		"slug": "bagel",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥞": {
+		"slug": "pancakes",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🧇": {
+		"slug": "waffle",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🧀": {
+		"slug": "cheese_wedge",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🍖": {
+		"slug": "meat_on_bone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍗": {
+		"slug": "poultry_leg",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥩": {
+		"slug": "cut_of_meat",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥓": {
+		"slug": "bacon",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🍔": {
+		"slug": "hamburger",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍟": {
+		"slug": "french_fries",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍕": {
+		"slug": "pizza",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌭": {
+		"slug": "hot_dog",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥪": {
+		"slug": "sandwich",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🌮": {
+		"slug": "taco",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌯": {
+		"slug": "burrito",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🫔": {
+		"slug": "tamale",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🥙": {
+		"slug": "stuffed_flatbread",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🧆": {
+		"slug": "falafel",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🍳": {
+		"slug": "cooking",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥘": {
+		"slug": "shallow_pan_of_food",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🍲": {
+		"slug": "pot_of_food",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🫕": {
+		"slug": "fondue",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🥣": {
+		"slug": "bowl_with_spoon",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥗": {
+		"slug": "green_salad",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🍿": {
+		"slug": "popcorn",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥫": {
+		"slug": "canned_food",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🍱": {
+		"slug": "bento_box",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍘": {
+		"slug": "rice_cracker",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍙": {
+		"slug": "rice_ball",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍚": {
+		"slug": "cooked_rice",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍛": {
+		"slug": "curry_rice",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍜": {
+		"slug": "steaming_bowl",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍝": {
+		"slug": "spaghetti",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍠": {
+		"slug": "roasted_sweet_potato",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍢": {
+		"slug": "oden",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍣": {
+		"slug": "sushi",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍤": {
+		"slug": "fried_shrimp",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍥": {
+		"slug": "fish_cake_with_swirl",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥮": {
+		"slug": "moon_cake",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🍡": {
+		"slug": "dango",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥟": {
+		"slug": "dumpling",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥠": {
+		"slug": "fortune_cookie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🥡": {
+		"slug": "takeout_box",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🦀": {
+		"slug": "crab",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🦞": {
+		"slug": "lobster",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦐": {
+		"slug": "shrimp",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦑": {
+		"slug": "squid",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦪": {
+		"slug": "oyster",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🍦": {
+		"slug": "soft_ice_cream",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍧": {
+		"slug": "shaved_ice",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍨": {
+		"slug": "ice_cream",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍩": {
+		"slug": "doughnut",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍪": {
+		"slug": "cookie",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎂": {
+		"slug": "birthday_cake",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍰": {
+		"slug": "shortcake",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧁": {
+		"slug": "cupcake",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥧": {
+		"slug": "pie",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🍫": {
+		"slug": "chocolate_bar",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍬": {
+		"slug": "candy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍭": {
+		"slug": "lollipop",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍮": {
+		"slug": "custard",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍯": {
+		"slug": "honey_pot",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍼": {
+		"slug": "baby_bottle",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🥛": {
+		"slug": "glass_of_milk",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"☕": {
+		"slug": "hot_beverage",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🫖": {
+		"slug": "teapot",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🍵": {
+		"slug": "teacup_without_handle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍶": {
+		"slug": "sake",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍾": {
+		"slug": "bottle_with_popping_cork",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🍷": {
+		"slug": "wine_glass",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍸": {
+		"slug": "cocktail_glass",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍹": {
+		"slug": "tropical_drink",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍺": {
+		"slug": "beer_mug",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🍻": {
+		"slug": "clinking_beer_mugs",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥂": {
+		"slug": "clinking_glasses",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥃": {
+		"slug": "tumbler_glass",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🥤": {
+		"slug": "cup_with_straw",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧋": {
+		"slug": "bubble_tea",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🧃": {
+		"slug": "beverage_box",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🧉": {
+		"slug": "mate",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🧊": {
+		"slug": "ice",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🥚": {
+		"slug": "egg",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🧈": {
+		"slug": "butter",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🧂": {
+		"slug": "salt",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥢": {
+		"slug": "chopsticks",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🍽️": {
+		"slug": "fork_and_knife_with_plate",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🍴": {
+		"slug": "fork_and_knife",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥄": {
+		"slug": "spoon",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🔪": {
+		"slug": "kitchen_knife",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏺": {
+		"slug": "amphora",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌍": {
+		"slug": "globe_showing_europe_africa",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌎": {
+		"slug": "globe_showing_americas",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌏": {
+		"slug": "globe_showing_asia_australia",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌐": {
+		"slug": "globe_with_meridians",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🗺️": {
+		"slug": "world_map",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🗾": {
+		"slug": "map_of_japan",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧭": {
+		"slug": "compass",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🏔️": {
+		"slug": "snow_capped_mountain",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⛰️": {
+		"slug": "mountain",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌋": {
+		"slug": "volcano",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗻": {
+		"slug": "mount_fuji",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏕️": {
+		"slug": "camping",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏖️": {
+		"slug": "beach_with_umbrella",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏜️": {
+		"slug": "desert",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏝️": {
+		"slug": "desert_island",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏞️": {
+		"slug": "national_park",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏟️": {
+		"slug": "stadium",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏛️": {
+		"slug": "classical_building",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏗️": {
+		"slug": "building_construction",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🧱": {
+		"slug": "brick",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪨": {
+		"slug": "rock",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🪵": {
+		"slug": "wood",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🛖": {
+		"slug": "hut",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🏘️": {
+		"slug": "houses",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏚️": {
+		"slug": "derelict_house",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏠": {
+		"slug": "house",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏡": {
+		"slug": "house_with_garden",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏢": {
+		"slug": "office_building",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏣": {
+		"slug": "japanese_post_office",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏤": {
+		"slug": "post_office",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏥": {
+		"slug": "hospital",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏦": {
+		"slug": "bank",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏨": {
+		"slug": "hotel",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏩": {
+		"slug": "love_hotel",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏪": {
+		"slug": "convenience_store",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏫": {
+		"slug": "school",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏬": {
+		"slug": "department_store",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏭": {
+		"slug": "factory",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏯": {
+		"slug": "japanese_castle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏰": {
+		"slug": "castle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💒": {
+		"slug": "wedding",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗼": {
+		"slug": "tokyo_tower",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗽": {
+		"slug": "statue_of_liberty",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛪": {
+		"slug": "church",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕌": {
+		"slug": "mosque",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛕": {
+		"slug": "hindu_temple",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🕍": {
+		"slug": "synagogue",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⛩️": {
+		"slug": "shinto_shrine",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕋": {
+		"slug": "kaaba",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⛲": {
+		"slug": "fountain",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛺": {
+		"slug": "tent",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌁": {
+		"slug": "foggy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌃": {
+		"slug": "night_with_stars",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏙️": {
+		"slug": "cityscape",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌄": {
+		"slug": "sunrise_over_mountains",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌅": {
+		"slug": "sunrise",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌆": {
+		"slug": "cityscape_at_dusk",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌇": {
+		"slug": "sunset",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌉": {
+		"slug": "bridge_at_night",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♨️": {
+		"slug": "hot_springs",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎠": {
+		"slug": "carousel_horse",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎡": {
+		"slug": "ferris_wheel",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎢": {
+		"slug": "roller_coaster",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💈": {
+		"slug": "barber_pole",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎪": {
+		"slug": "circus_tent",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚂": {
+		"slug": "locomotive",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚃": {
+		"slug": "railway_car",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚄": {
+		"slug": "high_speed_train",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚅": {
+		"slug": "bullet_train",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚆": {
+		"slug": "train",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚇": {
+		"slug": "metro",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚈": {
+		"slug": "light_rail",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚉": {
+		"slug": "station",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚊": {
+		"slug": "tram",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚝": {
+		"slug": "monorail",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚞": {
+		"slug": "mountain_railway",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚋": {
+		"slug": "tram_car",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚌": {
+		"slug": "bus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚍": {
+		"slug": "oncoming_bus",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🚎": {
+		"slug": "trolleybus",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚐": {
+		"slug": "minibus",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚑": {
+		"slug": "ambulance",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚒": {
+		"slug": "fire_engine",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚓": {
+		"slug": "police_car",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚔": {
+		"slug": "oncoming_police_car",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🚕": {
+		"slug": "taxi",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚖": {
+		"slug": "oncoming_taxi",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚗": {
+		"slug": "automobile",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚘": {
+		"slug": "oncoming_automobile",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🚙": {
+		"slug": "sport_utility_vehicle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛻": {
+		"slug": "pickup_truck",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🚚": {
+		"slug": "delivery_truck",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚛": {
+		"slug": "articulated_lorry",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚜": {
+		"slug": "tractor",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏎️": {
+		"slug": "racing_car",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏍️": {
+		"slug": "motorcycle",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🛵": {
+		"slug": "motor_scooter",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🦽": {
+		"slug": "manual_wheelchair",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🦼": {
+		"slug": "motorized_wheelchair",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🛺": {
+		"slug": "auto_rickshaw",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🚲": {
+		"slug": "bicycle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛴": {
+		"slug": "kick_scooter",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🛹": {
+		"slug": "skateboard",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🛼": {
+		"slug": "roller_skate",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🚏": {
+		"slug": "bus_stop",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛣️": {
+		"slug": "motorway",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🛤️": {
+		"slug": "railway_track",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🛢️": {
+		"slug": "oil_drum",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⛽": {
+		"slug": "fuel_pump",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚨": {
+		"slug": "police_car_light",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚥": {
+		"slug": "horizontal_traffic_light",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚦": {
+		"slug": "vertical_traffic_light",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛑": {
+		"slug": "stop_sign",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🚧": {
+		"slug": "construction",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⚓": {
+		"slug": "anchor",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛵": {
+		"slug": "sailboat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛶": {
+		"slug": "canoe",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🚤": {
+		"slug": "speedboat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛳️": {
+		"slug": "passenger_ship",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⛴️": {
+		"slug": "ferry",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🛥️": {
+		"slug": "motor_boat",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🚢": {
+		"slug": "ship",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✈️": {
+		"slug": "airplane",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛩️": {
+		"slug": "small_airplane",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🛫": {
+		"slug": "airplane_departure",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛬": {
+		"slug": "airplane_arrival",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🪂": {
+		"slug": "parachute",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"💺": {
+		"slug": "seat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚁": {
+		"slug": "helicopter",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚟": {
+		"slug": "suspension_railway",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚠": {
+		"slug": "mountain_cableway",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚡": {
+		"slug": "aerial_tramway",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛰️": {
+		"slug": "satellite",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🚀": {
+		"slug": "rocket",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛸": {
+		"slug": "flying_saucer",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🛎️": {
+		"slug": "bellhop_bell",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🧳": {
+		"slug": "luggage",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"⌛": {
+		"slug": "hourglass_done",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏳": {
+		"slug": "hourglass_not_done",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⌚": {
+		"slug": "watch",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏰": {
+		"slug": "alarm_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏱️": {
+		"slug": "stopwatch",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⏲️": {
+		"slug": "timer_clock",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🕰️": {
+		"slug": "mantelpiece_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕛": {
+		"slug": "twelve_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕧": {
+		"slug": "twelve_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕐": {
+		"slug": "one_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕜": {
+		"slug": "one_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕑": {
+		"slug": "two_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕝": {
+		"slug": "two_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕒": {
+		"slug": "three_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕞": {
+		"slug": "three_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕓": {
+		"slug": "four_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕟": {
+		"slug": "four_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕔": {
+		"slug": "five_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕠": {
+		"slug": "five_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕕": {
+		"slug": "six_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕡": {
+		"slug": "six_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕖": {
+		"slug": "seven_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕢": {
+		"slug": "seven_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕗": {
+		"slug": "eight_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕣": {
+		"slug": "eight_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕘": {
+		"slug": "nine_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕤": {
+		"slug": "nine_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕙": {
+		"slug": "ten_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕥": {
+		"slug": "ten_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🕚": {
+		"slug": "eleven_o_clock",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕦": {
+		"slug": "eleven_thirty",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌑": {
+		"slug": "new_moon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌒": {
+		"slug": "waxing_crescent_moon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌓": {
+		"slug": "first_quarter_moon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌔": {
+		"slug": "waxing_gibbous_moon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌕": {
+		"slug": "full_moon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌖": {
+		"slug": "waning_gibbous_moon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌗": {
+		"slug": "last_quarter_moon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌘": {
+		"slug": "waning_crescent_moon",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌙": {
+		"slug": "crescent_moon",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌚": {
+		"slug": "new_moon_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌛": {
+		"slug": "first_quarter_moon_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌜": {
+		"slug": "last_quarter_moon_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌡️": {
+		"slug": "thermometer",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"☀️": {
+		"slug": "sun",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌝": {
+		"slug": "full_moon_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🌞": {
+		"slug": "sun_with_face",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🪐": {
+		"slug": "ringed_planet",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"⭐": {
+		"slug": "star",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌟": {
+		"slug": "glowing_star",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌠": {
+		"slug": "shooting_star",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌌": {
+		"slug": "milky_way",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☄️": {
+		"slug": "comet",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"☁️": {
+		"slug": "cloud",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛅": {
+		"slug": "sun_behind_cloud",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛈️": {
+		"slug": "cloud_with_lightning_and_rain",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌤️": {
+		"slug": "sun_behind_small_cloud",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌥️": {
+		"slug": "sun_behind_large_cloud",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌦️": {
+		"slug": "sun_behind_rain_cloud",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌧️": {
+		"slug": "cloud_with_rain",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌨️": {
+		"slug": "cloud_with_snow",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌩️": {
+		"slug": "cloud_with_lightning",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌪️": {
+		"slug": "tornado",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌫️": {
+		"slug": "fog",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌬️": {
+		"slug": "wind_face",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🌀": {
+		"slug": "cyclone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌈": {
+		"slug": "rainbow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌂": {
+		"slug": "closed_umbrella",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☂️": {
+		"slug": "umbrella",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"☔": {
+		"slug": "umbrella_with_rain_drops",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛱️": {
+		"slug": "umbrella_on_ground",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⚡": {
+		"slug": "high_voltage",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❄️": {
+		"slug": "snowflake",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☃️": {
+		"slug": "snowman",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⛄": {
+		"slug": "snowman_without_snow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔥": {
+		"slug": "fire",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💧": {
+		"slug": "droplet",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🌊": {
+		"slug": "water_wave",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👓": {
+		"slug": "glasses",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕶️": {
+		"slug": "sunglasses",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🥽": {
+		"slug": "goggles",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥼": {
+		"slug": "lab_coat",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🦺": {
+		"slug": "safety_vest",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"👔": {
+		"slug": "necktie",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👕": {
+		"slug": "t_shirt",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👖": {
+		"slug": "jeans",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧣": {
+		"slug": "scarf",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧤": {
+		"slug": "gloves",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧥": {
+		"slug": "coat",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🧦": {
+		"slug": "socks",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"👗": {
+		"slug": "dress",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👘": {
+		"slug": "kimono",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥻": {
+		"slug": "sari",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🩱": {
+		"slug": "one_piece_swimsuit",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🩲": {
+		"slug": "briefs",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🩳": {
+		"slug": "shorts",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"👙": {
+		"slug": "bikini",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👚": {
+		"slug": "woman_s_clothes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👛": {
+		"slug": "purse",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👜": {
+		"slug": "handbag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👝": {
+		"slug": "clutch_bag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛍️": {
+		"slug": "shopping_bags",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎒": {
+		"slug": "backpack",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🩴": {
+		"slug": "thong_sandal",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"👞": {
+		"slug": "man_s_shoe",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👟": {
+		"slug": "running_shoe",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🥾": {
+		"slug": "hiking_boot",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🥿": {
+		"slug": "flat_shoe",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"👠": {
+		"slug": "high_heeled_shoe",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👡": {
+		"slug": "woman_s_sandal",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🩰": {
+		"slug": "ballet_shoes",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"👢": {
+		"slug": "woman_s_boot",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👑": {
+		"slug": "crown",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"👒": {
+		"slug": "woman_s_hat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎩": {
+		"slug": "top_hat",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎓": {
+		"slug": "graduation_cap",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧢": {
+		"slug": "billed_cap",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🪖": {
+		"slug": "military_helmet",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"⛑️": {
+		"slug": "rescue_worker_s_helmet",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📿": {
+		"slug": "prayer_beads",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💄": {
+		"slug": "lipstick",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💍": {
+		"slug": "ring",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💎": {
+		"slug": "gem_stone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔇": {
+		"slug": "muted_speaker",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔈": {
+		"slug": "speaker_low_volume",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🔉": {
+		"slug": "speaker_medium_volume",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔊": {
+		"slug": "speaker_high_volume",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📢": {
+		"slug": "loudspeaker",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📣": {
+		"slug": "megaphone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📯": {
+		"slug": "postal_horn",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔔": {
+		"slug": "bell",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔕": {
+		"slug": "bell_with_slash",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🎼": {
+		"slug": "musical_score",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎵": {
+		"slug": "musical_note",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎶": {
+		"slug": "musical_notes",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎙️": {
+		"slug": "studio_microphone",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎚️": {
+		"slug": "level_slider",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎛️": {
+		"slug": "control_knobs",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎤": {
+		"slug": "microphone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎧": {
+		"slug": "headphone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📻": {
+		"slug": "radio",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎷": {
+		"slug": "saxophone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪗": {
+		"slug": "accordion",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🎸": {
+		"slug": "guitar",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎹": {
+		"slug": "musical_keyboard",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎺": {
+		"slug": "trumpet",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎻": {
+		"slug": "violin",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪕": {
+		"slug": "banjo",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🥁": {
+		"slug": "drum",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🪘": {
+		"slug": "long_drum",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"📱": {
+		"slug": "mobile_phone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📲": {
+		"slug": "mobile_phone_with_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☎️": {
+		"slug": "telephone",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📞": {
+		"slug": "telephone_receiver",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📟": {
+		"slug": "pager",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📠": {
+		"slug": "fax_machine",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔋": {
+		"slug": "battery",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔌": {
+		"slug": "electric_plug",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💻": {
+		"slug": "laptop",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🖥️": {
+		"slug": "desktop_computer",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🖨️": {
+		"slug": "printer",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⌨️": {
+		"slug": "keyboard",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🖱️": {
+		"slug": "computer_mouse",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🖲️": {
+		"slug": "trackball",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"💽": {
+		"slug": "computer_disk",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💾": {
+		"slug": "floppy_disk",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💿": {
+		"slug": "optical_disk",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📀": {
+		"slug": "dvd",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧮": {
+		"slug": "abacus",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🎥": {
+		"slug": "movie_camera",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎞️": {
+		"slug": "film_frames",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📽️": {
+		"slug": "film_projector",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🎬": {
+		"slug": "clapper_board",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📺": {
+		"slug": "television",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📷": {
+		"slug": "camera",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📸": {
+		"slug": "camera_with_flash",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"📹": {
+		"slug": "video_camera",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📼": {
+		"slug": "videocassette",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔍": {
+		"slug": "magnifying_glass_tilted_left",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔎": {
+		"slug": "magnifying_glass_tilted_right",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🕯️": {
+		"slug": "candle",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"💡": {
+		"slug": "light_bulb",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔦": {
+		"slug": "flashlight",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏮": {
+		"slug": "red_paper_lantern",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪔": {
+		"slug": "diya_lamp",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"📔": {
+		"slug": "notebook_with_decorative_cover",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📕": {
+		"slug": "closed_book",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📖": {
+		"slug": "open_book",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📗": {
+		"slug": "green_book",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📘": {
+		"slug": "blue_book",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📙": {
+		"slug": "orange_book",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📚": {
+		"slug": "books",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📓": {
+		"slug": "notebook",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📒": {
+		"slug": "ledger",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📃": {
+		"slug": "page_with_curl",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📜": {
+		"slug": "scroll",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📄": {
+		"slug": "page_facing_up",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📰": {
+		"slug": "newspaper",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗞️": {
+		"slug": "rolled_up_newspaper",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📑": {
+		"slug": "bookmark_tabs",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔖": {
+		"slug": "bookmark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏷️": {
+		"slug": "label",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"💰": {
+		"slug": "money_bag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪙": {
+		"slug": "coin",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"💴": {
+		"slug": "yen_banknote",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💵": {
+		"slug": "dollar_banknote",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💶": {
+		"slug": "euro_banknote",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💷": {
+		"slug": "pound_banknote",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"💸": {
+		"slug": "money_with_wings",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💳": {
+		"slug": "credit_card",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🧾": {
+		"slug": "receipt",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"💹": {
+		"slug": "chart_increasing_with_yen",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✉️": {
+		"slug": "envelope",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📧": {
+		"slug": "e_mail",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📨": {
+		"slug": "incoming_envelope",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📩": {
+		"slug": "envelope_with_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📤": {
+		"slug": "outbox_tray",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📥": {
+		"slug": "inbox_tray",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📦": {
+		"slug": "package",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📫": {
+		"slug": "closed_mailbox_with_raised_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📪": {
+		"slug": "closed_mailbox_with_lowered_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📬": {
+		"slug": "open_mailbox_with_raised_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📭": {
+		"slug": "open_mailbox_with_lowered_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📮": {
+		"slug": "postbox",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗳️": {
+		"slug": "ballot_box_with_ballot",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"✏️": {
+		"slug": "pencil",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✒️": {
+		"slug": "black_nib",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🖋️": {
+		"slug": "fountain_pen",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🖊️": {
+		"slug": "pen",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🖌️": {
+		"slug": "paintbrush",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🖍️": {
+		"slug": "crayon",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📝": {
+		"slug": "memo",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💼": {
+		"slug": "briefcase",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📁": {
+		"slug": "file_folder",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📂": {
+		"slug": "open_file_folder",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗂️": {
+		"slug": "card_index_dividers",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📅": {
+		"slug": "calendar",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📆": {
+		"slug": "tear_off_calendar",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗒️": {
+		"slug": "spiral_notepad",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🗓️": {
+		"slug": "spiral_calendar",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📇": {
+		"slug": "card_index",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📈": {
+		"slug": "chart_increasing",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📉": {
+		"slug": "chart_decreasing",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📊": {
+		"slug": "bar_chart",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📋": {
+		"slug": "clipboard",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📌": {
+		"slug": "pushpin",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📍": {
+		"slug": "round_pushpin",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📎": {
+		"slug": "paperclip",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🖇️": {
+		"slug": "linked_paperclips",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"📏": {
+		"slug": "straight_ruler",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📐": {
+		"slug": "triangular_ruler",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✂️": {
+		"slug": "scissors",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗃️": {
+		"slug": "card_file_box",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🗄️": {
+		"slug": "file_cabinet",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🗑️": {
+		"slug": "wastebasket",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🔒": {
+		"slug": "locked",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔓": {
+		"slug": "unlocked",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔏": {
+		"slug": "locked_with_pen",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔐": {
+		"slug": "locked_with_key",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔑": {
+		"slug": "key",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🗝️": {
+		"slug": "old_key",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🔨": {
+		"slug": "hammer",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪓": {
+		"slug": "axe",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"⛏️": {
+		"slug": "pick",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⚒️": {
+		"slug": "hammer_and_pick",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛠️": {
+		"slug": "hammer_and_wrench",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🪚": {
+		"slug": "carpentry_saw",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🔧": {
+		"slug": "wrench",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪛": {
+		"slug": "screwdriver",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🔩": {
+		"slug": "nut_and_bolt",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⚙️": {
+		"slug": "gear",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🗜️": {
+		"slug": "clamp",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⚖️": {
+		"slug": "balance_scale",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🦯": {
+		"slug": "white_cane",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🔗": {
+		"slug": "link",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛓️": {
+		"slug": "chains",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🪝": {
+		"slug": "hook",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🧰": {
+		"slug": "toolbox",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧲": {
+		"slug": "magnet",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪜": {
+		"slug": "ladder",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🗡️": {
+		"slug": "dagger",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⚔️": {
+		"slug": "crossed_swords",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔫": {
+		"slug": "water_pistol",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪃": {
+		"slug": "boomerang",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🏹": {
+		"slug": "bow_and_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛡️": {
+		"slug": "shield",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⚗️": {
+		"slug": "alembic",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🧪": {
+		"slug": "test_tube",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧫": {
+		"slug": "petri_dish",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧬": {
+		"slug": "dna",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🔬": {
+		"slug": "microscope",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔭": {
+		"slug": "telescope",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"📡": {
+		"slug": "satellite_antenna",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💉": {
+		"slug": "syringe",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🩸": {
+		"slug": "drop_of_blood",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"💊": {
+		"slug": "pill",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🩹": {
+		"slug": "adhesive_bandage",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🩺": {
+		"slug": "stethoscope",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🚪": {
+		"slug": "door",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛗": {
+		"slug": "elevator",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🪞": {
+		"slug": "mirror",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🪟": {
+		"slug": "window",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🛏️": {
+		"slug": "bed",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🛋️": {
+		"slug": "couch_and_lamp",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🪑": {
+		"slug": "chair",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🚽": {
+		"slug": "toilet",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪠": {
+		"slug": "plunger",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🚿": {
+		"slug": "shower",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛁": {
+		"slug": "bathtub",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🪤": {
+		"slug": "mouse_trap",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🪒": {
+		"slug": "razor",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🧴": {
+		"slug": "lotion_bottle",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧷": {
+		"slug": "safety_pin",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧹": {
+		"slug": "broom",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧺": {
+		"slug": "basket",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧻": {
+		"slug": "roll_of_paper",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪣": {
+		"slug": "bucket",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🧼": {
+		"slug": "soap",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🪥": {
+		"slug": "toothbrush",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🧽": {
+		"slug": "sponge",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🧯": {
+		"slug": "fire_extinguisher",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🛒": {
+		"slug": "shopping_cart",
+		"skin_tone_support": false,
+		"unicode_version": "3.0"
+	},
+	"🚬": {
+		"slug": "cigarette",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⚰️": {
+		"slug": "coffin",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🪦": {
+		"slug": "headstone",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"⚱️": {
+		"slug": "funeral_urn",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🗿": {
+		"slug": "moai",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🪧": {
+		"slug": "placard",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🏧": {
+		"slug": "atm_sign",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚮": {
+		"slug": "litter_in_bin_sign",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚰": {
+		"slug": "potable_water",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"♿": {
+		"slug": "wheelchair_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚹": {
+		"slug": "men_s_room",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚺": {
+		"slug": "women_s_room",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚻": {
+		"slug": "restroom",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚼": {
+		"slug": "baby_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚾": {
+		"slug": "water_closet",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛂": {
+		"slug": "passport_control",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛃": {
+		"slug": "customs",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛄": {
+		"slug": "baggage_claim",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🛅": {
+		"slug": "left_luggage",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⚠️": {
+		"slug": "warning",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚸": {
+		"slug": "children_crossing",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⛔": {
+		"slug": "no_entry",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚫": {
+		"slug": "prohibited",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚳": {
+		"slug": "no_bicycles",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚭": {
+		"slug": "no_smoking",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚯": {
+		"slug": "no_littering",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚱": {
+		"slug": "non_potable_water",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🚷": {
+		"slug": "no_pedestrians",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"📵": {
+		"slug": "no_mobile_phones",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔞": {
+		"slug": "no_one_under_eighteen",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☢️": {
+		"slug": "radioactive",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"☣️": {
+		"slug": "biohazard",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⬆️": {
+		"slug": "up_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↗️": {
+		"slug": "up_right_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"➡️": {
+		"slug": "right_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↘️": {
+		"slug": "down_right_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⬇️": {
+		"slug": "down_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↙️": {
+		"slug": "down_left_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⬅️": {
+		"slug": "left_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↖️": {
+		"slug": "up_left_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↕️": {
+		"slug": "up_down_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↔️": {
+		"slug": "left_right_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↩️": {
+		"slug": "right_arrow_curving_left",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"↪️": {
+		"slug": "left_arrow_curving_right",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⤴️": {
+		"slug": "right_arrow_curving_up",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⤵️": {
+		"slug": "right_arrow_curving_down",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔃": {
+		"slug": "clockwise_vertical_arrows",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔄": {
+		"slug": "counterclockwise_arrows_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔙": {
+		"slug": "back_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔚": {
+		"slug": "end_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔛": {
+		"slug": "on_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔜": {
+		"slug": "soon_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔝": {
+		"slug": "top_arrow",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🛐": {
+		"slug": "place_of_worship",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"⚛️": {
+		"slug": "atom_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🕉️": {
+		"slug": "om",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"✡️": {
+		"slug": "star_of_david",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"☸️": {
+		"slug": "wheel_of_dharma",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"☯️": {
+		"slug": "yin_yang",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"✝️": {
+		"slug": "latin_cross",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"☦️": {
+		"slug": "orthodox_cross",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"☪️": {
+		"slug": "star_and_crescent",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"☮️": {
+		"slug": "peace_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🕎": {
+		"slug": "menorah",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔯": {
+		"slug": "dotted_six_pointed_star",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♈": {
+		"slug": "aries",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♉": {
+		"slug": "taurus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♊": {
+		"slug": "gemini",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♋": {
+		"slug": "cancer",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♌": {
+		"slug": "leo",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♍": {
+		"slug": "virgo",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♎": {
+		"slug": "libra",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♏": {
+		"slug": "scorpio",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♐": {
+		"slug": "sagittarius",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♑": {
+		"slug": "capricorn",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♒": {
+		"slug": "aquarius",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♓": {
+		"slug": "pisces",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⛎": {
+		"slug": "ophiuchus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔀": {
+		"slug": "shuffle_tracks_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔁": {
+		"slug": "repeat_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔂": {
+		"slug": "repeat_single_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"▶️": {
+		"slug": "play_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏩": {
+		"slug": "fast_forward_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏭️": {
+		"slug": "next_track_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⏯️": {
+		"slug": "play_or_pause_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"◀️": {
+		"slug": "reverse_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏪": {
+		"slug": "fast_reverse_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏮️": {
+		"slug": "last_track_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🔼": {
+		"slug": "upwards_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏫": {
+		"slug": "fast_up_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔽": {
+		"slug": "downwards_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏬": {
+		"slug": "fast_down_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⏸️": {
+		"slug": "pause_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⏹️": {
+		"slug": "stop_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⏺️": {
+		"slug": "record_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"⏏️": {
+		"slug": "eject_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🎦": {
+		"slug": "cinema",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔅": {
+		"slug": "dim_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔆": {
+		"slug": "bright_button",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"📶": {
+		"slug": "antenna_bars",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📳": {
+		"slug": "vibration_mode",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📴": {
+		"slug": "mobile_phone_off",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♀️": {
+		"slug": "female_sign",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"♂️": {
+		"slug": "male_sign",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"⚧️": {
+		"slug": "transgender_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"✖️": {
+		"slug": "multiply",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"➕": {
+		"slug": "plus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"➖": {
+		"slug": "minus",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"➗": {
+		"slug": "divide",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"♾️": {
+		"slug": "infinity",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"‼️": {
+		"slug": "double_exclamation_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⁉️": {
+		"slug": "exclamation_question_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❓": {
+		"slug": "red_question_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❔": {
+		"slug": "white_question_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❕": {
+		"slug": "white_exclamation_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❗": {
+		"slug": "red_exclamation_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"〰️": {
+		"slug": "wavy_dash",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💱": {
+		"slug": "currency_exchange",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💲": {
+		"slug": "heavy_dollar_sign",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"#️⃣": {
+		"slug": "keycap_",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"*️⃣": {
+		"slug": "keycap_",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"0️⃣": {
+		"slug": "keycap_0",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"1️⃣": {
+		"slug": "keycap_1",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"2️⃣": {
+		"slug": "keycap_2",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"3️⃣": {
+		"slug": "keycap_3",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"4️⃣": {
+		"slug": "keycap_4",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"5️⃣": {
+		"slug": "keycap_5",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"6️⃣": {
+		"slug": "keycap_6",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"7️⃣": {
+		"slug": "keycap_7",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"8️⃣": {
+		"slug": "keycap_8",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"9️⃣": {
+		"slug": "keycap_9",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔟": {
+		"slug": "keycap_10",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔠": {
+		"slug": "input_latin_uppercase",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔡": {
+		"slug": "input_latin_lowercase",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔢": {
+		"slug": "input_numbers",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔣": {
+		"slug": "input_symbols",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔤": {
+		"slug": "input_latin_letters",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🅰️": {
+		"slug": "a_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆎": {
+		"slug": "ab_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🅱️": {
+		"slug": "b_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆑": {
+		"slug": "cl_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆒": {
+		"slug": "cool_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆓": {
+		"slug": "free_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"ℹ️": {
+		"slug": "information",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆔": {
+		"slug": "id_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"Ⓜ️": {
+		"slug": "circled_m",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆕": {
+		"slug": "new_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆖": {
+		"slug": "ng_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🅾️": {
+		"slug": "o_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆗": {
+		"slug": "ok_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🅿️": {
+		"slug": "p_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆘": {
+		"slug": "sos_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆙": {
+		"slug": "up_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🆚": {
+		"slug": "vs_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈁": {
+		"slug": "japanese_here_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈂️": {
+		"slug": "japanese_service_charge_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈷️": {
+		"slug": "japanese_monthly_amount_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈶": {
+		"slug": "japanese_not_free_of_charge_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈯": {
+		"slug": "japanese_reserved_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🉐": {
+		"slug": "japanese_bargain_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈹": {
+		"slug": "japanese_discount_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈚": {
+		"slug": "japanese_free_of_charge_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈲": {
+		"slug": "japanese_prohibited_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🉑": {
+		"slug": "japanese_acceptable_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈸": {
+		"slug": "japanese_application_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈴": {
+		"slug": "japanese_passing_grade_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈳": {
+		"slug": "japanese_vacancy_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"㊗️": {
+		"slug": "japanese_congratulations_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"㊙️": {
+		"slug": "japanese_secret_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈺": {
+		"slug": "japanese_open_for_business_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🈵": {
+		"slug": "japanese_no_vacancy_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔴": {
+		"slug": "red_circle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🟠": {
+		"slug": "orange_circle",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟡": {
+		"slug": "yellow_circle",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟢": {
+		"slug": "green_circle",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🔵": {
+		"slug": "blue_circle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🟣": {
+		"slug": "purple_circle",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟤": {
+		"slug": "brown_circle",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"⚫": {
+		"slug": "black_circle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⚪": {
+		"slug": "white_circle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🟥": {
+		"slug": "red_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟧": {
+		"slug": "orange_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟨": {
+		"slug": "yellow_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟩": {
+		"slug": "green_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟦": {
+		"slug": "blue_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟪": {
+		"slug": "purple_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"🟫": {
+		"slug": "brown_square",
+		"skin_tone_support": false,
+		"unicode_version": "12.0"
+	},
+	"⬛": {
+		"slug": "black_large_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⬜": {
+		"slug": "white_large_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"◼️": {
+		"slug": "black_medium_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"◻️": {
+		"slug": "white_medium_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"◾": {
+		"slug": "black_medium_small_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"◽": {
+		"slug": "white_medium_small_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"▪️": {
+		"slug": "black_small_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"▫️": {
+		"slug": "white_small_square",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔶": {
+		"slug": "large_orange_diamond",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔷": {
+		"slug": "large_blue_diamond",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔸": {
+		"slug": "small_orange_diamond",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔹": {
+		"slug": "small_blue_diamond",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔺": {
+		"slug": "red_triangle_pointed_up",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔻": {
+		"slug": "red_triangle_pointed_down",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"💠": {
+		"slug": "diamond_with_a_dot",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔘": {
+		"slug": "radio_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔳": {
+		"slug": "white_square_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔲": {
+		"slug": "black_square_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏁": {
+		"slug": "chequered_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🚩": {
+		"slug": "triangular_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🎌": {
+		"slug": "crossed_flags",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🏴": {
+		"slug": "black_flag",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🏳️": {
+		"slug": "white_flag",
+		"skin_tone_support": false,
+		"unicode_version": "0.7"
+	},
+	"🏳️‍🌈": {
+		"slug": "rainbow_flag",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"🏳️‍⚧️": {
+		"slug": "transgender_flag",
+		"skin_tone_support": false,
+		"unicode_version": "13.0"
+	},
+	"🏴‍☠️": {
+		"slug": "pirate_flag",
+		"skin_tone_support": false,
+		"unicode_version": "11.0"
+	},
+	"🇦🇨": {
+		"slug": "flag_ascension_island",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇩": {
+		"slug": "flag_andorra",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇪": {
+		"slug": "flag_united_arab_emirates",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇫": {
+		"slug": "flag_afghanistan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇬": {
+		"slug": "flag_antigua_barbuda",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇮": {
+		"slug": "flag_anguilla",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇱": {
+		"slug": "flag_albania",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇲": {
+		"slug": "flag_armenia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇴": {
+		"slug": "flag_angola",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇶": {
+		"slug": "flag_antarctica",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇷": {
+		"slug": "flag_argentina",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇸": {
+		"slug": "flag_american_samoa",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇹": {
+		"slug": "flag_austria",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇺": {
+		"slug": "flag_australia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇼": {
+		"slug": "flag_aruba",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇽": {
+		"slug": "flag_aland_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇦🇿": {
+		"slug": "flag_azerbaijan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇦": {
+		"slug": "flag_bosnia_herzegovina",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇧": {
+		"slug": "flag_barbados",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇩": {
+		"slug": "flag_bangladesh",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇪": {
+		"slug": "flag_belgium",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇫": {
+		"slug": "flag_burkina_faso",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇬": {
+		"slug": "flag_bulgaria",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇭": {
+		"slug": "flag_bahrain",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇮": {
+		"slug": "flag_burundi",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇯": {
+		"slug": "flag_benin",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇱": {
+		"slug": "flag_st_barthelemy",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇲": {
+		"slug": "flag_bermuda",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇳": {
+		"slug": "flag_brunei",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇴": {
+		"slug": "flag_bolivia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇶": {
+		"slug": "flag_caribbean_netherlands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇷": {
+		"slug": "flag_brazil",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇸": {
+		"slug": "flag_bahamas",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇹": {
+		"slug": "flag_bhutan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇻": {
+		"slug": "flag_bouvet_island",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇼": {
+		"slug": "flag_botswana",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇾": {
+		"slug": "flag_belarus",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇧🇿": {
+		"slug": "flag_belize",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇦": {
+		"slug": "flag_canada",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇨": {
+		"slug": "flag_cocos_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇩": {
+		"slug": "flag_congo_kinshasa",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇫": {
+		"slug": "flag_central_african_republic",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇬": {
+		"slug": "flag_congo_brazzaville",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇭": {
+		"slug": "flag_switzerland",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇮": {
+		"slug": "flag_cote_d_ivoire",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇰": {
+		"slug": "flag_cook_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇱": {
+		"slug": "flag_chile",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇲": {
+		"slug": "flag_cameroon",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇳": {
+		"slug": "flag_china",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇨🇴": {
+		"slug": "flag_colombia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇵": {
+		"slug": "flag_clipperton_island",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇷": {
+		"slug": "flag_costa_rica",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇺": {
+		"slug": "flag_cuba",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇻": {
+		"slug": "flag_cape_verde",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇼": {
+		"slug": "flag_curacao",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇽": {
+		"slug": "flag_christmas_island",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇾": {
+		"slug": "flag_cyprus",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇨🇿": {
+		"slug": "flag_czechia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇩🇪": {
+		"slug": "flag_germany",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇩🇬": {
+		"slug": "flag_diego_garcia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇩🇯": {
+		"slug": "flag_djibouti",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇩🇰": {
+		"slug": "flag_denmark",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇩🇲": {
+		"slug": "flag_dominica",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇩🇴": {
+		"slug": "flag_dominican_republic",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇩🇿": {
+		"slug": "flag_algeria",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇦": {
+		"slug": "flag_ceuta_melilla",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇨": {
+		"slug": "flag_ecuador",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇪": {
+		"slug": "flag_estonia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇬": {
+		"slug": "flag_egypt",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇭": {
+		"slug": "flag_western_sahara",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇷": {
+		"slug": "flag_eritrea",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇸": {
+		"slug": "flag_spain",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇪🇹": {
+		"slug": "flag_ethiopia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇪🇺": {
+		"slug": "flag_european_union",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇫🇮": {
+		"slug": "flag_finland",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇫🇯": {
+		"slug": "flag_fiji",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇫🇰": {
+		"slug": "flag_falkland_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇫🇲": {
+		"slug": "flag_micronesia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇫🇴": {
+		"slug": "flag_faroe_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇫🇷": {
+		"slug": "flag_france",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇬🇦": {
+		"slug": "flag_gabon",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇧": {
+		"slug": "flag_united_kingdom",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇬🇩": {
+		"slug": "flag_grenada",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇪": {
+		"slug": "flag_georgia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇫": {
+		"slug": "flag_french_guiana",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇬": {
+		"slug": "flag_guernsey",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇭": {
+		"slug": "flag_ghana",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇮": {
+		"slug": "flag_gibraltar",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇱": {
+		"slug": "flag_greenland",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇲": {
+		"slug": "flag_gambia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇳": {
+		"slug": "flag_guinea",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇵": {
+		"slug": "flag_guadeloupe",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇶": {
+		"slug": "flag_equatorial_guinea",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇷": {
+		"slug": "flag_greece",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇸": {
+		"slug": "flag_south_georgia_south_sandwich_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇹": {
+		"slug": "flag_guatemala",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇺": {
+		"slug": "flag_guam",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇼": {
+		"slug": "flag_guinea_bissau",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇬🇾": {
+		"slug": "flag_guyana",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇭🇰": {
+		"slug": "flag_hong_kong_sar_china",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇭🇲": {
+		"slug": "flag_heard_mcdonald_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇭🇳": {
+		"slug": "flag_honduras",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇭🇷": {
+		"slug": "flag_croatia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇭🇹": {
+		"slug": "flag_haiti",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇭🇺": {
+		"slug": "flag_hungary",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇨": {
+		"slug": "flag_canary_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇩": {
+		"slug": "flag_indonesia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇪": {
+		"slug": "flag_ireland",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇱": {
+		"slug": "flag_israel",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇲": {
+		"slug": "flag_isle_of_man",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇳": {
+		"slug": "flag_india",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇴": {
+		"slug": "flag_british_indian_ocean_territory",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇶": {
+		"slug": "flag_iraq",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇷": {
+		"slug": "flag_iran",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇸": {
+		"slug": "flag_iceland",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇮🇹": {
+		"slug": "flag_italy",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇯🇪": {
+		"slug": "flag_jersey",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇯🇲": {
+		"slug": "flag_jamaica",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇯🇴": {
+		"slug": "flag_jordan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇯🇵": {
+		"slug": "flag_japan",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇰🇪": {
+		"slug": "flag_kenya",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇬": {
+		"slug": "flag_kyrgyzstan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇭": {
+		"slug": "flag_cambodia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇮": {
+		"slug": "flag_kiribati",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇲": {
+		"slug": "flag_comoros",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇳": {
+		"slug": "flag_st_kitts_nevis",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇵": {
+		"slug": "flag_north_korea",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇷": {
+		"slug": "flag_south_korea",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇰🇼": {
+		"slug": "flag_kuwait",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇾": {
+		"slug": "flag_cayman_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇰🇿": {
+		"slug": "flag_kazakhstan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇦": {
+		"slug": "flag_laos",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇧": {
+		"slug": "flag_lebanon",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇨": {
+		"slug": "flag_st_lucia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇮": {
+		"slug": "flag_liechtenstein",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇰": {
+		"slug": "flag_sri_lanka",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇷": {
+		"slug": "flag_liberia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇸": {
+		"slug": "flag_lesotho",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇹": {
+		"slug": "flag_lithuania",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇺": {
+		"slug": "flag_luxembourg",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇻": {
+		"slug": "flag_latvia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇱🇾": {
+		"slug": "flag_libya",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇦": {
+		"slug": "flag_morocco",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇨": {
+		"slug": "flag_monaco",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇩": {
+		"slug": "flag_moldova",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇪": {
+		"slug": "flag_montenegro",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇫": {
+		"slug": "flag_st_martin",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇬": {
+		"slug": "flag_madagascar",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇭": {
+		"slug": "flag_marshall_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇰": {
+		"slug": "flag_north_macedonia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇱": {
+		"slug": "flag_mali",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇲": {
+		"slug": "flag_myanmar",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇳": {
+		"slug": "flag_mongolia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇴": {
+		"slug": "flag_macao_sar_china",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇵": {
+		"slug": "flag_northern_mariana_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇶": {
+		"slug": "flag_martinique",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇷": {
+		"slug": "flag_mauritania",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇸": {
+		"slug": "flag_montserrat",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇹": {
+		"slug": "flag_malta",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇺": {
+		"slug": "flag_mauritius",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇻": {
+		"slug": "flag_maldives",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇼": {
+		"slug": "flag_malawi",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇽": {
+		"slug": "flag_mexico",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇾": {
+		"slug": "flag_malaysia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇲🇿": {
+		"slug": "flag_mozambique",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇦": {
+		"slug": "flag_namibia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇨": {
+		"slug": "flag_new_caledonia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇪": {
+		"slug": "flag_niger",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇫": {
+		"slug": "flag_norfolk_island",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇬": {
+		"slug": "flag_nigeria",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇮": {
+		"slug": "flag_nicaragua",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇱": {
+		"slug": "flag_netherlands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇴": {
+		"slug": "flag_norway",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇵": {
+		"slug": "flag_nepal",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇷": {
+		"slug": "flag_nauru",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇺": {
+		"slug": "flag_niue",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇳🇿": {
+		"slug": "flag_new_zealand",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇴🇲": {
+		"slug": "flag_oman",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇦": {
+		"slug": "flag_panama",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇪": {
+		"slug": "flag_peru",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇫": {
+		"slug": "flag_french_polynesia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇬": {
+		"slug": "flag_papua_new_guinea",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇭": {
+		"slug": "flag_philippines",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇰": {
+		"slug": "flag_pakistan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇱": {
+		"slug": "flag_poland",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇲": {
+		"slug": "flag_st_pierre_miquelon",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇳": {
+		"slug": "flag_pitcairn_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇷": {
+		"slug": "flag_puerto_rico",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇸": {
+		"slug": "flag_palestinian_territories",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇹": {
+		"slug": "flag_portugal",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇼": {
+		"slug": "flag_palau",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇵🇾": {
+		"slug": "flag_paraguay",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇶🇦": {
+		"slug": "flag_qatar",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇷🇪": {
+		"slug": "flag_reunion",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇷🇴": {
+		"slug": "flag_romania",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇷🇸": {
+		"slug": "flag_serbia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇷🇺": {
+		"slug": "flag_russia",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇷🇼": {
+		"slug": "flag_rwanda",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇦": {
+		"slug": "flag_saudi_arabia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇧": {
+		"slug": "flag_solomon_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇨": {
+		"slug": "flag_seychelles",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇩": {
+		"slug": "flag_sudan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇪": {
+		"slug": "flag_sweden",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇬": {
+		"slug": "flag_singapore",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇭": {
+		"slug": "flag_st_helena",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇮": {
+		"slug": "flag_slovenia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇯": {
+		"slug": "flag_svalbard_jan_mayen",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇰": {
+		"slug": "flag_slovakia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇱": {
+		"slug": "flag_sierra_leone",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇲": {
+		"slug": "flag_san_marino",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇳": {
+		"slug": "flag_senegal",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇴": {
+		"slug": "flag_somalia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇷": {
+		"slug": "flag_suriname",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇸": {
+		"slug": "flag_south_sudan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇹": {
+		"slug": "flag_sao_tome_principe",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇻": {
+		"slug": "flag_el_salvador",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇽": {
+		"slug": "flag_sint_maarten",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇾": {
+		"slug": "flag_syria",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇸🇿": {
+		"slug": "flag_eswatini",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇦": {
+		"slug": "flag_tristan_da_cunha",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇨": {
+		"slug": "flag_turks_caicos_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇩": {
+		"slug": "flag_chad",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇫": {
+		"slug": "flag_french_southern_territories",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇬": {
+		"slug": "flag_togo",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇭": {
+		"slug": "flag_thailand",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇯": {
+		"slug": "flag_tajikistan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇰": {
+		"slug": "flag_tokelau",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇱": {
+		"slug": "flag_timor_leste",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇲": {
+		"slug": "flag_turkmenistan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇳": {
+		"slug": "flag_tunisia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇴": {
+		"slug": "flag_tonga",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇷": {
+		"slug": "flag_turkey",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇹": {
+		"slug": "flag_trinidad_tobago",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇻": {
+		"slug": "flag_tuvalu",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇼": {
+		"slug": "flag_taiwan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇹🇿": {
+		"slug": "flag_tanzania",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇺🇦": {
+		"slug": "flag_ukraine",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇺🇬": {
+		"slug": "flag_uganda",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇺🇲": {
+		"slug": "flag_u_s_outlying_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇺🇳": {
+		"slug": "flag_united_nations",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"🇺🇸": {
+		"slug": "flag_united_states",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🇺🇾": {
+		"slug": "flag_uruguay",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇺🇿": {
+		"slug": "flag_uzbekistan",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇦": {
+		"slug": "flag_vatican_city",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇨": {
+		"slug": "flag_st_vincent_grenadines",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇪": {
+		"slug": "flag_venezuela",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇬": {
+		"slug": "flag_british_virgin_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇮": {
+		"slug": "flag_u_s_virgin_islands",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇳": {
+		"slug": "flag_vietnam",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇻🇺": {
+		"slug": "flag_vanuatu",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇼🇫": {
+		"slug": "flag_wallis_futuna",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇼🇸": {
+		"slug": "flag_samoa",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇽🇰": {
+		"slug": "flag_kosovo",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇾🇪": {
+		"slug": "flag_yemen",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇾🇹": {
+		"slug": "flag_mayotte",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇿🇦": {
+		"slug": "flag_south_africa",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇿🇲": {
+		"slug": "flag_zambia",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🇿🇼": {
+		"slug": "flag_zimbabwe",
+		"skin_tone_support": false,
+		"unicode_version": "2.0"
+	},
+	"🏴󠁧󠁢󠁥󠁮󠁧󠁿": {
+		"slug": "flag_england",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🏴󠁧󠁢󠁳󠁣󠁴󠁿": {
+		"slug": "flag_scotland",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"🏴󠁧󠁢󠁷󠁬󠁳󠁿": {
+		"slug": "flag_wales",
+		"skin_tone_support": false,
+		"unicode_version": "5.0"
+	},
+	"⚕️": {
+		"slug": "medical_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "4.0"
+	},
+	"♻️": {
+		"slug": "recycling_symbol",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⚜️": {
+		"slug": "fleur_de_lis",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"🔱": {
+		"slug": "trident_emblem",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"📛": {
+		"slug": "name_badge",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"🔰": {
+		"slug": "japanese_symbol_for_beginner",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"⭕": {
+		"slug": "hollow_red_circle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✅": {
+		"slug": "check_mark_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"☑️": {
+		"slug": "check_box_with_check",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✔️": {
+		"slug": "check_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❌": {
+		"slug": "cross_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❎": {
+		"slug": "cross_mark_button",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"➰": {
+		"slug": "curly_loop",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"➿": {
+		"slug": "double_curly_loop",
+		"skin_tone_support": false,
+		"unicode_version": "1.0"
+	},
+	"〽️": {
+		"slug": "part_alternation_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✳️": {
+		"slug": "eight_spoked_asterisk",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"✴️": {
+		"slug": "eight_pointed_star",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"❇️": {
+		"slug": "sparkle",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"©️": {
+		"slug": "copyright",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"®️": {
+		"slug": "registered",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	},
+	"™️": {
+		"slug": "trade_mark",
+		"skin_tone_support": false,
+		"unicode_version": "0.6"
+	}
+}

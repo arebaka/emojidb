@@ -1,5 +1,5 @@
-const eng = require("./eng.json");
-const rus = require("./rus.json");
+const eng = require("./eng");
+const rus = require("./rus");
 
 module.exports = {
     eng: eng,

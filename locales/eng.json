@@ -122,6 +122,12 @@
 			"other": "Other"
 		}
 	},
+	"components": {
+		"skin_tones": "Skin tones",
+		"hairs": "Hairs",
+		"regional_indicators": "Regional indicators",
+		"tags": "Tags"
+	},
 	"keywords":	{
 		"-": ["❌", "➖", "👍"],
 		"->": ["➡️", "🔜"],
