@@ -1,5 +1,4 @@
 const EmojiDb = require("emoji-db");
-
 const db = new EmojiDb({ useDefaultDb: true });
 
 
@@ -63,20 +62,12 @@ class Emok
 
                 for (let alias of emoji.aliases) {
                     lower = alias.toLowerCase();
-
-                    if (!byAliases[lower]) {
-                        byAliases[lower] = [];
-                    }
-
+                    byAliases[lower] = byAliases[lower] || [];
                     byAliases[lower].push(emoji);
                 }
                 for (let tag of emoji.tags) {
                     lower = tag.toLowerCase();
-
-                    if (!byTags[lower]) {
-                        byTags[lower] = [];
-                    }
-
+                    byTags[lower] = byTags[lower] || [];
                     byTags[lower].push(emoji);
                 }
             }
@@ -85,44 +76,38 @@ class Emok
 
     bySlug(str)
     {
-        if (typeof str != "string")
-            return null;
-        return bySlug[str.toLowerCase()] || null;
+        return typeof str == "string"
+            ? bySlug[str.toLowerCase()] || null : null;
     }
 
     byCode(str)
     {
-        if (typeof str != "string")
-            return null;
-        return byCode[str.toLowerCase()] || null;
+        return typeof str == "string"
+            ? byCode[str.toLowerCase()] || null : null;
     }
 
     byTitle(str)
     {
-        if (typeof str != "string")
-            return null;
-        return byTitle[str.toLowerCase()] || null;
+        return typeof str == "string"
+            ? byTitle[str.toLowerCase()] || null : null;
     }
 
     byShortcode(str)
     {
-        if (typeof str != "string")
-            return null;
-        return byShortcode[str.toLowerCase()] || null;
+        return typeof str == "string"
+            ? byShortcode[str.toLowerCase()] || null : null;
     }
 
     getByKeyword(str)
     {
-        if (typeof str != "string")
-            return [];
-        return this.locale.keywords[str.toLowerCase()] || [];
+        return typeof str == "string"
+            ? this.locale.keywords[str.toLowerCase()] || [] : [];
     }
 
     search(text)
     {
-        if (typeof text != "string")
-            return text;
-        return db.searchFromText({ input: text });
+        return typeof text == "string"
+            ? db.searchFromText({ input: text }) : [];
     }
 
     get(str)
@@ -152,9 +137,7 @@ class Emok
 
     getByAliases(aliases)
     {
-        if (!Array.isArray(aliases)) {
-            aliases = [aliases];
-        }
+        aliases = Array.isArray(aliases) ? aliases : [aliases];
 
         let res = [];
         let list;
@@ -162,10 +145,7 @@ class Emok
         for (let alias of aliases) {
             alias = "" + alias;
             list  = byAliases[alias.toLowerCase()];
-
-            if (list) {
-                res = res.concat(list.map(e => e.char));
-            }
+            res   = list ? res.concat(list.map(e => e.char)) : res;
         }
 
         return res;
@@ -173,9 +153,7 @@ class Emok
 
     getByTags(tags)
     {
-        if (!Array.isArray(tags)) {
-            tags = [tags];
-        }
+        tags = Array.isArray(tags) ? tags : [tags];
 
         let res = [];
         let list;
@@ -183,10 +161,7 @@ class Emok
         for (let tag of tags) {
             tag  = "" + tag;
             list = byTags[tag.toLowerCase()];
-
-            if (list) {
-                res = res.concat(list.map(e => e.char))
-            };
+            res  = list ? res.concat(list.map(e => e.char)) : res;
         }
 
         return res;
@@ -209,9 +184,8 @@ class Emok
             return text;
 
         for (let sc of shortcodes) {
-            if (byShortcode[sc]) {
-                text = text.replace(sc, byShortcode[sc].char);
-            }
+            text = byShortcode[sc]
+                ? text.replace(sc, byShortcode[sc].char) : text;
         }
 
         return text;
@@ -240,9 +214,8 @@ class Emok
 
     setLocale(code)
     {
-        if (typeof code != "string")
-            return;
-        this.locale = this.locales[code] || this.locale;
+        this.locale = typeof code == "string"
+            ? this.locales[code] || this.locale : this.locale;
     }
 }
 
